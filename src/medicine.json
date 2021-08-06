@@ -1,0 +1,5995 @@
+[
+  {
+      "name": "%0,9 IZOTONIK 1000 ML SOLUSYON",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.60",
+      "id": "1"
+  },
+  {
+      "name": "%0,9 IZOTONIK 1000 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.60",
+      "id": "2"
+  },
+  {
+      "name": "%0,9 IZOTONIK 500 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.47",
+      "id": "3"
+  },
+  {
+      "name": "%0,9 IZOTONIK 500 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.21",
+      "id": "4"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR 250 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.80",
+      "id": "5"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR 250 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.66",
+      "id": "6"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 1000 ML BFS (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.90",
+      "id": "7"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 1000 ML BFS (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.75",
+      "id": "8"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 250 ML BFS (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.35",
+      "id": "9"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 250 ML BFS (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.04",
+      "id": "10"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 500 ML BFS (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.64",
+      "id": "11"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI 500 ML BFS (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.34",
+      "id": "12"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI BFS 100 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.17",
+      "id": "13"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI BFS 100 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "0.84",
+      "id": "14"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI BFS 150 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.23",
+      "id": "15"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR COZELTISI BFS 150 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "0.91",
+      "id": "16"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR ICEREN IRRIGASYON SOLUSYONU 1000 ML (POLIPROPILEN SISE)",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.75",
+      "id": "17"
+  },
+  {
+      "name": "%0,9 IZOTONIK SODYUM KLORUR ICEREN IRRIGASYON SOLUSYONU 500 ML (POLIPROPILEN SISE)",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.34",
+      "id": "18"
+  },
+  {
+      "name": "%0,9 NACL IE 1000 ML SOLUSYON (SETSIZ)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.88",
+      "id": "19"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR 10 ML 10 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.37",
+      "id": "20"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR 1000 ML SOLUSYON SETSIZ",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.61",
+      "id": "21"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR 500 ML SOLUSYON SETSIZ",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.21",
+      "id": "22"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR IE 500 ML SOLUSYON (SETSIZ)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.45",
+      "id": "23"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR PVC 100 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "0.84",
+      "id": "24"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR PVC 150 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "0.90",
+      "id": "25"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR PVC 250 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "1.02",
+      "id": "26"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR PVC 3000 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "1.81",
+      "id": "27"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR SOLUSYONU 1000 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.92",
+      "id": "28"
+  },
+  {
+      "name": "%0,9 SODYUM KLORUR SOLUSYONU 500 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.78",
+      "id": "29"
+  },
+  {
+      "name": "%1.5 GLISIN COZELTISI 3000 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.98",
+      "id": "30"
+  },
+  {
+      "name": "%10 DEKSTROZ 1000 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.73",
+      "id": "31"
+  },
+  {
+      "name": "%10 DEKSTROZ 1000 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.59",
+      "id": "32"
+  },
+  {
+      "name": "%10 DEKSTROZ 500 ML SOLUSYON",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "0.95",
+      "id": "33"
+  },
+  {
+      "name": "%10 DEKSTROZ SOLUSYONU 500 ML SETLI (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.78",
+      "id": "34"
+  },
+  {
+      "name": "%10 DEKSTROZ SOLUSYONU 500 ML SETSIZ (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.55",
+      "id": "35"
+  },
+  {
+      "name": "%10 DEKSTROZ SOLUSYONU 500 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.26",
+      "id": "36"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.91",
+      "id": "37"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.77",
+      "id": "38"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 100 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.19",
+      "id": "39"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 100 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.93",
+      "id": "40"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 1000 ML SETLI",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.73",
+      "id": "41"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 1000 ML SETSIZ",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.59",
+      "id": "42"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 150 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.32",
+      "id": "43"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 150 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.00",
+      "id": "44"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 500 ML (CAM-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "45"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 500 ML (CAM-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.59",
+      "id": "46"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 500 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "47"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI COZELTISI 500 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.59",
+      "id": "48"
+  },
+  {
+      "name": "%10 DEKSTROZ SUDAKI HIPERTONIK SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.85",
+      "id": "49"
+  },
+  {
+      "name": "%17,5 DEKSTROZ BIOSEL SUDAKI HIPERTONIK SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.21",
+      "id": "50"
+  },
+  {
+      "name": "%20 DEKS SOL TORBA PVC 500 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "51"
+  },
+  {
+      "name": "%20 DEKS SOL TORBA PVC 500 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.59",
+      "id": "52"
+  },
+  {
+      "name": "%20 DEKSTROZ 500 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.75",
+      "id": "53"
+  },
+  {
+      "name": "%20 DEKSTROZ 500 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.69",
+      "id": "54"
+  },
+  {
+      "name": "%20 DEKSTROZ BIOSEL SUDAKI HIPERTONIK SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.86",
+      "id": "55"
+  },
+  {
+      "name": "%20 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.02",
+      "id": "56"
+  },
+  {
+      "name": "%20 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.86",
+      "id": "57"
+  },
+  {
+      "name": "%20 DEKSTROZ VAC.500 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "58"
+  },
+  {
+      "name": "%20 DEKSTROZ VAC.500 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.59",
+      "id": "59"
+  },
+  {
+      "name": "%20 MANNITOL COZELTISI 1000 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.56",
+      "id": "60"
+  },
+  {
+      "name": "%20 MANNITOL COZELTISI 1000 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.41",
+      "id": "61"
+  },
+  {
+      "name": "%20 MANNITOL COZELTISI 500 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.20",
+      "id": "62"
+  },
+  {
+      "name": "%20 MANNITOL COZELTISI 500 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.92",
+      "id": "63"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI (MEDIFLEKS 250 ML SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.64",
+      "id": "64"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI (MEDIFLEKS 250 ML SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.35",
+      "id": "65"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 100 ML (SETLI-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.20",
+      "id": "66"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 100 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.88",
+      "id": "67"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 150 ML (SETLI-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.56",
+      "id": "68"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 150 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.26",
+      "id": "69"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 500 ML (SETLI-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.20",
+      "id": "70"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI COZELTISI 500 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.92",
+      "id": "71"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI SOLUSYON 1000 ML (CAM SISE) SETLI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.56",
+      "id": "72"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI SOLUSYON 1000 ML (CAM SISE) SETSIZ",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.41",
+      "id": "73"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI SOLUSYON 500 ML (CAM SISE) SETLI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.98",
+      "id": "74"
+  },
+  {
+      "name": "%20 MANNITOL SUDAKI SOLUSYON 500 ML (CAM SISE) SETSIZ",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.90",
+      "id": "75"
+  },
+  {
+      "name": "%20 SODYUM KLORUR COZELTISI ICEREN 10 AMPUL",
+      "brand": "ONFARMA İLAÇ SANAYİ LTD.ŞTİ.",
+      "price": "3.39",
+      "id": "76"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 100 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.05",
+      "id": "77"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 100 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.73",
+      "id": "78"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 150 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.13",
+      "id": "79"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 150 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.85",
+      "id": "80"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 250 ML (SETLI-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.92",
+      "id": "81"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 250 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.60",
+      "id": "82"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 50 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.05",
+      "id": "83"
+  },
+  {
+      "name": "%3 SODYUM KLORUR COZELTISI 50 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.73",
+      "id": "84"
+  },
+  {
+      "name": "%3 SODYUM KLORUR SOLUSYON 1000 ML CAM(SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.93",
+      "id": "85"
+  },
+  {
+      "name": "%3 SODYUM KLORUR SOLUSYON 1000 ML CAM(SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.79",
+      "id": "86"
+  },
+  {
+      "name": "%3 SODYUM KLORUR SOLUSYON 500 ML CAM(SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.62",
+      "id": "87"
+  },
+  {
+      "name": "%3 SODYUM KLORUR SOLUSYON 500 ML CAM(SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.32",
+      "id": "88"
+  },
+  {
+      "name": "%30 DEKSTROZ 500 ML SOL. SETLI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.64",
+      "id": "89"
+  },
+  {
+      "name": "%30 DEKSTROZ 500 ML SOLUSYON",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.49",
+      "id": "90"
+  },
+  {
+      "name": "%30 DEKSTROZ BIOSEL SUDAKI HIPERTONIK SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.79",
+      "id": "91"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 1000 ML (SETLI-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "3.26",
+      "id": "92"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 1000 ML (SETSIZ-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.90",
+      "id": "93"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 250 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.04",
+      "id": "94"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 500 ML (SETLI-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.90",
+      "id": "95"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 500 ML (SETLI-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.90",
+      "id": "96"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 500 ML (SETSIZ-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.63",
+      "id": "97"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI 500 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.63",
+      "id": "98"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI COZELTISI CAM 250 ML SETSIZ",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.89",
+      "id": "99"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI SOLUSYON 250 ML SETSIZ",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.89",
+      "id": "100"
+  },
+  {
+      "name": "%30 DEKSTROZ SUDAKI SOLUSYON 250 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.04",
+      "id": "101"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL PVC 250 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.44",
+      "id": "102"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL PVC 250 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.11",
+      "id": "103"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL PVC 500 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.74",
+      "id": "104"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL PVC 500 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.44",
+      "id": "105"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL SISE 500 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.37",
+      "id": "106"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 NACL SISE 500 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.66",
+      "id": "107"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 SODYUM KLORUR COZELTISI 100 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.04",
+      "id": "108"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 SODYUM KLORUR COZELTISI 100 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.84",
+      "id": "109"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 SODYUM KLORUR SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.57",
+      "id": "110"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,2 SODYUM KLORUR SOLUSYONU 500 ML SETSIZ SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.27",
+      "id": "111"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR %0,3 POTASYUM KLORUR SOLUSYONU 500 ML SETSIZ SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.11",
+      "id": "112"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR COZELTISI 250 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.42",
+      "id": "113"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR COZELTISI 250 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.12",
+      "id": "114"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYON 1000 ML SETLI",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.92",
+      "id": "115"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYON 500 ML SETLI",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.57",
+      "id": "116"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 1000 ML SETLI (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.92",
+      "id": "117"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 1000 ML SETSIZ (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.77",
+      "id": "118"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 1000 ML SETSIZ SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.77",
+      "id": "119"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 500 ML SETLI (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.57",
+      "id": "120"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 500 ML SETSIZ (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.27",
+      "id": "121"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,45 SODYUM KLORUR SOLUSYONU 500 ML SETSIZ SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.27",
+      "id": "122"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,9 SODYUM KLORUR BIOSEL SOLUSYON 1000 ML SETLI",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.88",
+      "id": "123"
+  },
+  {
+      "name": "%5 DEKSTROZ %0,9 SODYUM KLORUR BIOSEL SOLUSYON 500 ML SETLI",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.71",
+      "id": "124"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 NACL SISE 500 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.68",
+      "id": "125"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 NACL SISE 500 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.38",
+      "id": "126"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 100 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.43",
+      "id": "127"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 100 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.07",
+      "id": "128"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 1000 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "129"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 1000 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.83",
+      "id": "130"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 500 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.78",
+      "id": "131"
+  },
+  {
+      "name": "%5 DEKSTROZ %045 SODYUM KLORUR COZELTISI 500 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.45",
+      "id": "132"
+  },
+  {
+      "name": "%5 DEKSTROZ %09 NACL SISE 1000 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "133"
+  },
+  {
+      "name": "%5 DEKSTROZ %09 NACL SISE 1000 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.81",
+      "id": "134"
+  },
+  {
+      "name": "%5 DEKSTROZ %09 NACL SISE 500 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.72",
+      "id": "135"
+  },
+  {
+      "name": "%5 DEKSTROZ %09 NACL SISE 500 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.42",
+      "id": "136"
+  },
+  {
+      "name": "%5 DEKSTROZ 1000 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.90",
+      "id": "137"
+  },
+  {
+      "name": "%5 DEKSTROZ 1000 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.90",
+      "id": "138"
+  },
+  {
+      "name": "%5 DEKSTROZ 500 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.65",
+      "id": "139"
+  },
+  {
+      "name": "%5 DEKSTROZ 500 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.49",
+      "id": "140"
+  },
+  {
+      "name": "%5 DEKSTROZ BIOSEL SUDAKI SOLUSYON 100 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.86",
+      "id": "141"
+  },
+  {
+      "name": "%5 DEKSTROZ BIOSEL SUDAKI SOLUSYON 1000 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.91",
+      "id": "142"
+  },
+  {
+      "name": "%5 DEKSTROZ BIOSEL SUDAKI SOLUSYON 250 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.32",
+      "id": "143"
+  },
+  {
+      "name": "%5 DEKSTROZ BIOSEL SUDAKI SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.63",
+      "id": "144"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR 1000 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.88",
+      "id": "145"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI 1000 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.84",
+      "id": "146"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI 250 ML (CAM-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.86",
+      "id": "147"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI 250 ML (CAM-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.50",
+      "id": "148"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI 500 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.72",
+      "id": "149"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI 500 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.42",
+      "id": "150"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI BFS 500 ML(SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.72",
+      "id": "151"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI BFS 500 ML(SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.42",
+      "id": "152"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI BFS1000 ML(SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.88",
+      "id": "153"
+  },
+  {
+      "name": "%5 DEKSTROZ IZOTONIK SODYUM KLORUR COZELTISI BFS1000 ML(SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.84",
+      "id": "154"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTAT RINGER 1000 ML SOLUSYON",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.90",
+      "id": "155"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTAT RINGER 1000 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.62",
+      "id": "156"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTAT RINGER 500 ML SOLUSYON",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.57",
+      "id": "157"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTAT RINGER 500 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.46",
+      "id": "158"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTAT RINGER PVC 1000 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.89",
+      "id": "159"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER COZELTISI 1000 ML (SETLI SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.93",
+      "id": "160"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER COZELTISI 1000 ML (SETSIZ SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.89",
+      "id": "161"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER COZELTISI 500 ML (SETLI SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.72",
+      "id": "162"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER COZELTISI 500 ML (SETSIZ SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.41",
+      "id": "163"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER PVC 1000 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.93",
+      "id": "164"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER PVC 500 ML(SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.78",
+      "id": "165"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER PVC 500 ML(SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.45",
+      "id": "166"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER SOLUSYONU 1000 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.96",
+      "id": "167"
+  },
+  {
+      "name": "%5 DEKSTROZ LAKTATLI RINGER SOLUSYONU 500 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.85",
+      "id": "168"
+  },
+  {
+      "name": "%5 DEKSTROZ PVC 100 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "0.86",
+      "id": "169"
+  },
+  {
+      "name": "%5 DEKSTROZ PVC 150 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "0.96",
+      "id": "170"
+  },
+  {
+      "name": "%5 DEKSTROZ PVC 250 ML SOLUSYON",
+      "brand": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+      "price": "1.09",
+      "id": "171"
+  },
+  {
+      "name": "%5 DEKSTROZ RINGER LAKTAT BIOSEL SOLUSYON 1000 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.01",
+      "id": "172"
+  },
+  {
+      "name": "%5 DEKSTROZ RINGER LAKTAT BIOSEL SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.63",
+      "id": "173"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU 1000 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.96",
+      "id": "174"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU 500 ML(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.79",
+      "id": "175"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU BFS 250 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.42",
+      "id": "176"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU BFS 250 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.12",
+      "id": "177"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU BFS 500 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.75",
+      "id": "178"
+  },
+  {
+      "name": "%5 DEKSTROZ SOLUSYONU BFS 500 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.46",
+      "id": "179"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.11",
+      "id": "180"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI 250 ML SOLUSYON (SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.97",
+      "id": "181"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 100 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.19",
+      "id": "182"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 100 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.87",
+      "id": "183"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 1000 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.90",
+      "id": "184"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 1000 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.94",
+      "id": "185"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 1000 ML (SETLI-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.91",
+      "id": "186"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 1000 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.76",
+      "id": "187"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 150 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.27",
+      "id": "188"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 150 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.96",
+      "id": "189"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 250 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.42",
+      "id": "190"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 250 ML (SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.12",
+      "id": "191"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 50 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.72",
+      "id": "192"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 50 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.04",
+      "id": "193"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 500 ML (MEDIFLEKS-SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.75",
+      "id": "194"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 500 ML (MEDIFLEKS-SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.46",
+      "id": "195"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 500 ML (SETSIZ-CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.34",
+      "id": "196"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI 500 ML CAM (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.63",
+      "id": "197"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS (100 ML, 1 SISE, SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.19",
+      "id": "198"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS (100 ML, 1 SISE, SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "0.87",
+      "id": "199"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS 1000 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.94",
+      "id": "200"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS 1000 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.90",
+      "id": "201"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS 150 ML (SETLI)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "1.27",
+      "id": "202"
+  },
+  {
+      "name": "%5 DEKSTROZ SUDAKI COZELTISI BFS 150 ML (SETSIZ)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "0.96",
+      "id": "203"
+  },
+  {
+      "name": "%5 DEKSTROZ-%0,9 SODYUM KLORUR 1000 CC SETLI (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.87",
+      "id": "204"
+  },
+  {
+      "name": "%5 DEKSTROZ-%0,9 SODYUM KLORUR 1000 CC SETSIZ (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.73",
+      "id": "205"
+  },
+  {
+      "name": "%5 DEKSTROZ-%0,9 SODYUM KLORUR 500 CC SETLI (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.70",
+      "id": "206"
+  },
+  {
+      "name": "%5 DEKSTROZ-%0,9 SODYUM KLORUR 500 CC SETSIZ (CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.41",
+      "id": "207"
+  },
+  {
+      "name": "%5 DEKSTROZ+ %0,45 NACL+ %0,3 POTASYUM KLORUR 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.33",
+      "id": "208"
+  },
+  {
+      "name": "%5 MANNITOL COZELTISI 1000 ML (CAM SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.69",
+      "id": "209"
+  },
+  {
+      "name": "%5 MANNITOL COZELTISI 500 ML (CAM SETSIZ)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.04",
+      "id": "210"
+  },
+  {
+      "name": "%50 DEKSTROZ BIOSEL SUDAKI HIPERTONIK SOLUSYON 500 ML SETLI SISE",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.87",
+      "id": "211"
+  },
+  {
+      "name": "%50 DEKSTROZ SUDAKI SOLUSYON 1000ML CAM(SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.10",
+      "id": "212"
+  },
+  {
+      "name": "%50 DEKSTROZ SUDAKI SOLUSYON 1000ML CAM(SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.94",
+      "id": "213"
+  },
+  {
+      "name": "%50 DEKSTROZ SUDAKI SOLUSYON 500ML CAM(SETLI)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.87",
+      "id": "214"
+  },
+  {
+      "name": "%50 DEKSTROZ SUDAKI SOLUSYON 500ML CAM(SETSIZ)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.72",
+      "id": "215"
+  },
+  {
+      "name": "%50 HIPERTONIK DEKSTROZ COZELTISI- 500 ML (SETLI CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.87",
+      "id": "216"
+  },
+  {
+      "name": "%50 HIPERTONIK DEKSTROZ COZELTISI- 500 ML (SETSIZ CAM)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.83",
+      "id": "217"
+  },
+  {
+      "name": "1/2 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOL. 500 ML SETLI",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.62",
+      "id": "218"
+  },
+  {
+      "name": "1/2 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOLUSYONU, 500 ML(SETSIZ)",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.32",
+      "id": "219"
+  },
+  {
+      "name": "1/3 ISODEXOL INF. 500 ML SOLUSYON (SETSIZ)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.04",
+      "id": "220"
+  },
+  {
+      "name": "1/3 ISODEXOL INF. 500 ML SOLUSYONU(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.36",
+      "id": "221"
+  },
+  {
+      "name": "1/3 IZODEKS COZELTISI 100 ML (SETLI)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.18",
+      "id": "222"
+  },
+  {
+      "name": "1/3 IZODEKS COZELTISI 100 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "0.91",
+      "id": "223"
+  },
+  {
+      "name": "1/3 IZODEKS COZELTISI 500 ML (SETLI SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.66",
+      "id": "224"
+  },
+  {
+      "name": "1/3 IZODEKS COZELTISI 500 ML (SETSIZ SISE)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.37",
+      "id": "225"
+  },
+  {
+      "name": "1/3 IZODEKS COZELTISI 500 ML (SETSIZ-MEDIFLEKS)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "1.37",
+      "id": "226"
+  },
+  {
+      "name": "1/3 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOL. 1000 ML SETLI",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.99",
+      "id": "227"
+  },
+  {
+      "name": "1/3 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOL. 500 ML SETLI",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.47",
+      "id": "228"
+  },
+  {
+      "name": "1/3 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOLUSYONU 1000 ML(SETSIZ)",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.72",
+      "id": "229"
+  },
+  {
+      "name": "1/3 IZOTONIK SODYUM KLORUR IZOTONIK DEKSTROZ SOLUSYONU 500 ML(SETSIZ)",
+      "brand": "ÇETİNKAYA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.37",
+      "id": "230"
+  },
+  {
+      "name": "1/3 POLIDEKS (%3,33 DEKSTROZ-%3 SODYUM KLORUR)500 CC SETLI(CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.66",
+      "id": "231"
+  },
+  {
+      "name": "1/3 POLIDEKS (%3,33 DEKSTROZ-%3 SODYUM KLORUR)500 CC SETSIZ(CAM SISE)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.36",
+      "id": "232"
+  },
+  {
+      "name": "1/3 POLIDEKS SOLUSYONU 1000 ML (CAM SISE ) SETLI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.90",
+      "id": "233"
+  },
+  {
+      "name": "1/3 POLIDEKS SOLUSYONU 1000 ML (CAM SISE ) SETSIZ",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.71",
+      "id": "234"
+  },
+  {
+      "name": "1/4 ISODEXOL INF. 500 ML SOLUSYON (SETSIZ)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.02",
+      "id": "235"
+  },
+  {
+      "name": "1/4 ISODEXOL INF. 500 ML SOLUSYONU(SETLI)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.34",
+      "id": "236"
+  },
+  {
+      "name": "5-FLUOROURACIL 1000 MG/20 ML ENJ. COZ. ICIN FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.60",
+      "id": "237"
+  },
+  {
+      "name": "5-FLUOROURACIL BIOSYN 10 ML 500 MG 1 AMPUL",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "1.86",
+      "id": "238"
+  },
+  {
+      "name": "5-FLUOROURACIL BIOSYN 20 ML 1000 MG 1 AMPUL",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "3.35",
+      "id": "239"
+  },
+  {
+      "name": "5-FLUOROURACIL BIOSYN 5 ML 250 MG 10 AMPUL",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "3.46",
+      "id": "240"
+  },
+  {
+      "name": "5-FLUOROURACIL EBEWE 500 MG/10 ML ENJ. ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.80",
+      "id": "241"
+  },
+  {
+      "name": "5-FLUOROURACIL EBEWE 5000 MG/100 ML ENJ. ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "24.49",
+      "id": "242"
+  },
+  {
+      "name": "5-FROTU 1000 MG/20 ML ENJ. ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.70",
+      "id": "243"
+  },
+  {
+      "name": "5-FROTU 5000 MG/100 ML ENJ. ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "17.96",
+      "id": "244"
+  },
+  {
+      "name": "ABAVIR 245 MG 30 FILM KAPLI TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "111.15",
+      "id": "245"
+  },
+  {
+      "name": "ABETYL 250 MG TABLET (120 TABLET)",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "2650.52",
+      "id": "246"
+  },
+  {
+      "name": "ABILIFY 1 MG/ML ORAL SOLUSYON 150 ML",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "19.33",
+      "id": "247"
+  },
+  {
+      "name": "ABILIFY 10 MG 28 TABLET",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "20.44",
+      "id": "248"
+  },
+  {
+      "name": "ABILIFY 15 MG 28 TABLET",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "20.44",
+      "id": "249"
+  },
+  {
+      "name": "ABILIFY 30 MG 28 TABLET",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "42.16",
+      "id": "250"
+  },
+  {
+      "name": "ABILIFY 5 MG 28 TABLET",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "18.05",
+      "id": "251"
+  },
+  {
+      "name": "ABILIFY MAINTENA 400 MG UZUN SALIMLI IM ENJEKSIYONLUK 1 FLAKON",
+      "brand": "ABDİ İBRAHİM OTSUKA İLAÇ SAN. VE TİC. A.Ş",
+      "price": "189.53",
+      "id": "252"
+  },
+  {
+      "name": "ABIRATEX 250 MG 120 TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2650.52",
+      "id": "253"
+  },
+  {
+      "name": "ABITIGA 250 MG FILM KAPLI TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "2650.52",
+      "id": "254"
+  },
+  {
+      "name": "ABIZOL 1 MG/ML ORAL COZELTI 150 ML",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "19.33",
+      "id": "255"
+  },
+  {
+      "name": "ABIZOL 10 MG 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.44",
+      "id": "256"
+  },
+  {
+      "name": "ABIZOL 15 MG 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.44",
+      "id": "257"
+  },
+  {
+      "name": "ABIZOL 20 MG 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "27.25",
+      "id": "258"
+  },
+  {
+      "name": "ABIZOL 30 MG 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "42.16",
+      "id": "259"
+  },
+  {
+      "name": "ABIZOL 5 MG 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "18.05",
+      "id": "260"
+  },
+  {
+      "name": "ABIZOL EASYTAB 10 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.44",
+      "id": "261"
+  },
+  {
+      "name": "ABIZOL EASYTAB 15 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.44",
+      "id": "262"
+  },
+  {
+      "name": "ABIZOL EASYTAB 5 MG AGIZDA DAGILAN 28 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.22",
+      "id": "263"
+  },
+  {
+      "name": "ABOUND PORTAKAL AROMALI TOZ 24 GR 30 POSET",
+      "brand": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+      "price": "208.2",
+      "id": "264"
+  },
+  {
+      "name": "ABPAX 40 MG 28 ENTERIK KAPLI TABLET",
+      "brand": "NOBEL SAĞLIK ÜRÜNLERİ LTD ŞTİ",
+      "price": "3.02",
+      "id": "265"
+  },
+  {
+      "name": "ABSTRAL 100 MCG 10 DILALTI TABLET",
+      "brand": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "35.28",
+      "id": "266"
+  },
+  {
+      "name": "ABSTRAL 200 MCG 10 DILALTI TABLET",
+      "brand": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "35.28",
+      "id": "267"
+  },
+  {
+      "name": "ABSTRAL 400 MCG 10 DILALTI TABLET",
+      "brand": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "15.84",
+      "id": "268"
+  },
+  {
+      "name": "ABSTRAL 800 MCG 10 DILALTI TABLET",
+      "brand": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "54.25",
+      "id": "269"
+  },
+  {
+      "name": "ABYGA 250 MG TABLET (120 TABLET)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "2650.52",
+      "id": "270"
+  },
+  {
+      "name": "ACCUZIDE 20 MG/12,5 MG 30 FILM TABLET",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "3.00",
+      "id": "271"
+  },
+  {
+      "name": "ACCUZIDE 20 MG/12,5 MG 30 FILM TABLET",
+      "brand": "PFİZER İLAÇLARI LTD. ŞTİ.",
+      "price": "3.00",
+      "id": "272"
+  },
+  {
+      "name": "ACCUZIDE FORT 20 MG/25 MG 30 FILM KAPLI TABLET",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "5.10",
+      "id": "273"
+  },
+  {
+      "name": "ACCUZIDE FORT 20 MG/25 MG 30 FILM KAPLI TABLET",
+      "brand": "PFİZER İLAÇLARI LTD. ŞTİ.",
+      "price": "5.10",
+      "id": "274"
+  },
+  {
+      "name": "ACE PLUS SELENYUM 30 YUMUSAK KAPSUL",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "9.96",
+      "id": "275"
+  },
+  {
+      "name": "ACECAP 20/200/200 MG YUMUSAK KAPSUL (30 YUMUSAK KAPSUL)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.83",
+      "id": "276"
+  },
+  {
+      "name": "ACEPER 4 MG 30 TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "3.24",
+      "id": "277"
+  },
+  {
+      "name": "ACEPER 8 MG 30 TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "5.89",
+      "id": "278"
+  },
+  {
+      "name": "ACEPER PLUS 4 MG/1,25 MG 30 TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "11.29",
+      "id": "279"
+  },
+  {
+      "name": "ACESCAP 30 YUMUSAK KAPSUL",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "2.61",
+      "id": "280"
+  },
+  {
+      "name": "ACETUDIL FORTE 60 MG KAPSUL (20 KAPSUL)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "3.64",
+      "id": "281"
+  },
+  {
+      "name": "ACETYLCYSTEIN 600 TROM 10 EFERVESAN TABLET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.40",
+      "id": "282"
+  },
+  {
+      "name": "ACETYLCYSTEIN 600 TROM 20 EFERVESAN TABLET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.70",
+      "id": "283"
+  },
+  {
+      "name": "ACIDPASS 10 MG/800 MG/165 MG 12 CIGNEME TABLETI",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.54",
+      "id": "285"
+  },
+  {
+      "name": "ACIDPASS 10/800/165 MG CIGNEME TABLETI (6 TABLET)",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.89",
+      "id": "286"
+  },
+  {
+      "name": "ACLABON 5MG/100 ML IV INFUZYON COZELTISI ICEREN 1 FLAKON",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "188.19",
+      "id": "287"
+  },
+  {
+      "name": "ACLASTA 5MG/100 ML IV INFUZYON COZELTISI",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "188.19",
+      "id": "288"
+  },
+  {
+      "name": "ACMEL 500 MG/5 ML IM/IV/SC ENJEKSIYONLUK COZELTI (5 ADET)",
+      "brand": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
+      "price": "2.10",
+      "id": "289"
+  },
+  {
+      "name": "ACNEDUR %3 MERHEM (20 G)",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.07",
+      "id": "290"
+  },
+  {
+      "name": "ACNEFFERIN % 0.1 JEL",
+      "brand": "MEGA FARMA İLAÇ VE KOZMETİK SANAYİ PAZARLAMA LİMİTED ŞİRKETİ",
+      "price": "18.06",
+      "id": "291"
+  },
+  {
+      "name": "ACNEGEN 10 MG 30 YUMUSAK JELATIN KAPSUL",
+      "brand": "BİO-GEN İLAÇ SANAYİ TİC.LTD.ŞTİ.",
+      "price": "3.39",
+      "id": "292"
+  },
+  {
+      "name": "ACNEGEN 20 MG 30 YUMUSAK JELATIN KAPSUL",
+      "brand": "BİO-GEN İLAÇ SANAYİ TİC.LTD.ŞTİ.",
+      "price": "5.79",
+      "id": "293"
+  },
+  {
+      "name": "ACNELYSE %0,025 KREM (20 G)",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "9.90",
+      "id": "294"
+  },
+  {
+      "name": "ACNELYSE %0,05 KREM",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "9.90",
+      "id": "295"
+  },
+  {
+      "name": "ACNELYSE %0,1 KREM",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "9.90",
+      "id": "296"
+  },
+  {
+      "name": "ACNEMIX % 5 + % 3 JEL (46,6 G)",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "33.60",
+      "id": "297"
+  },
+  {
+      "name": "ACNEWELL %5 JEL (30 GR)",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.53",
+      "id": "298"
+  },
+  {
+      "name": "ACNOR 100 MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "2.93",
+      "id": "299"
+  },
+  {
+      "name": "ACNOR 100 MG 60 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "5.86",
+      "id": "300"
+  },
+  {
+      "name": "ACNOR 100 MG 90 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "11.87",
+      "id": "301"
+  },
+  {
+      "name": "ACNOR 50 MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "3.11",
+      "id": "302"
+  },
+  {
+      "name": "ACNOR 50 MG 60 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "6.22",
+      "id": "303"
+  },
+  {
+      "name": "ACNOR 50 MG 90 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "8.72",
+      "id": "304"
+  },
+  {
+      "name": "ACOMET 500 MG/100 ML IV INFUZYONLUK COZELTI (1 ADET)",
+      "brand": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
+      "price": "13.01",
+      "id": "305"
+  },
+  {
+      "name": "ACORT 15/850 MG 30 FILM TABLET",
+      "brand": "TRIPHARMA İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "9.71",
+      "id": "306"
+  },
+  {
+      "name": "ACORT 15/850 MG 90 FILM TABLET",
+      "brand": "TRIPHARMA İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "26.69",
+      "id": "307"
+  },
+  {
+      "name": "ACSERA 5 ML ENJEKSIYONLUK COZELTI KONSANTRESI ICEREN FLAKON",
+      "brand": "VETAL SERUM VE BİYOLOJİK ÜRÜNLER ÜRETİMİ SAN. VE TİC. A.Ş.",
+      "price": "50.91",
+      "id": "308"
+  },
+  {
+      "name": "ACSONAT 35 MG 4 FILM TABLET",
+      "brand": "PLATİN KİMYA MÜMESSİLLİK VE DIŞ TİCARET ANONİM ŞİRKETİ",
+      "price": "8.79",
+      "id": "309"
+  },
+  {
+      "name": "ACT 100 MG TEK DOZLUK EFF.GRANUL ICEREN 30 POSET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.79",
+      "id": "310"
+  },
+  {
+      "name": "ACT 100 MG TEK DOZLUK EFF.GRANUL ICEREN 60 POSET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.73",
+      "id": "311"
+  },
+  {
+      "name": "ACT 200 MG TEK DOZLUK EFF.GRANUL ICEREN 30 POSET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.37",
+      "id": "312"
+  },
+  {
+      "name": "ACT 300MG/3ML (%10) ENJEKSIYONLUK COZELTI (10 AMPUL)",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.55",
+      "id": "313"
+  },
+  {
+      "name": "ACT 300MG/3ML (%10) ENJEKSIYONLUK COZELTI (5 AMPUL)",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.24",
+      "id": "314"
+  },
+  {
+      "name": "ACTEDAY 30 MG 28 FILM KAPLI TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "52.73",
+      "id": "315"
+  },
+  {
+      "name": "ACTEDAY 35 MG 4 FILM KAPLI TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "8.79",
+      "id": "316"
+  },
+  {
+      "name": "ACTEMRA 162 MG/ 0,9 ML SC ENJ. COZELTI ICEREN KULLANIMA HAZIR 4 ENJEKTOR",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "737.15",
+      "id": "317"
+  },
+  {
+      "name": "ACTEMRA 200 MG/10 ML IV INFUZYONLUK COZELTI KONSANTRESI 1 FLAKON",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "280.66",
+      "id": "318"
+  },
+  {
+      "name": "ACTEMRA 400 MG/20 ML IV INFUZYONLUK COZELTI KONSANTRESI 1 FLAKON",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "561.33",
+      "id": "319"
+  },
+  {
+      "name": "ACTEMRA 80 MG/4 ML IV INFUZYONLUK COZELTI KONSANTRESI 1 FLAKON",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "112.26",
+      "id": "320"
+  },
+  {
+      "name": "ACTIDEM 150 ML SURUP",
+      "brand": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "1.98",
+      "id": "321"
+  },
+  {
+      "name": "ACTIFED 150 ML SURUP",
+      "brand": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "6.30",
+      "id": "322"
+  },
+  {
+      "name": "ACTIFED 60 MG 30 TABLET",
+      "brand": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "4.63",
+      "id": "323"
+  },
+  {
+      "name": "ACTILYSE 10 MG 1 FLAKON",
+      "brand": "BOEHRİNGER INGELHEİM İLAÇ TİCARET A.Ş.",
+      "price": "139.18",
+      "id": "324"
+  },
+  {
+      "name": "ACTILYSE 20 MG 1 FLAKON",
+      "brand": "BOEHRİNGER INGELHEİM İLAÇ TİCARET A.Ş.",
+      "price": "276.15",
+      "id": "325"
+  },
+  {
+      "name": "ACTILYSE 50 MG 1 FLAKON",
+      "brand": "BOEHRİNGER INGELHEİM İLAÇ TİCARET A.Ş.",
+      "price": "583.23",
+      "id": "326"
+  },
+  {
+      "name": "ACTINOMA %3 JEL",
+      "brand": "ORVA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.77",
+      "id": "327"
+  },
+  {
+      "name": "ACTIONFLU 50 MCG/100 MCG INHALASYON ICIN TOZ ICEREN KAPSUL (60 ADET)",
+      "brand": "EXELTİS İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "15.88",
+      "id": "328"
+  },
+  {
+      "name": "ACTIONFLU 50 MCG/250 MCG INHALASYON ICIN TOZ ICEREN KAPSUL (60 ADET)",
+      "brand": "EXELTİS İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "21.82",
+      "id": "329"
+  },
+  {
+      "name": "ACTIONFLU 50 MCG/500 MCG INHALASYON ICIN TOZ ICEREN KAPSUL (60 ADET)",
+      "brand": "EXELTİS İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "26.44",
+      "id": "330"
+  },
+  {
+      "name": "ACTIQ 200 MCG OROMUKOZAL APLIKATORLU 3 PASTIL",
+      "brand": "GENESİS İLAÇ VE SAĞLIK ÜRÜNLERİ A.Ş.",
+      "price": "19.50",
+      "id": "331"
+  },
+  {
+      "name": "ACTIQ 400 MCG OROMUKOZAL APLIKATORLU 3 PASTIL",
+      "brand": "GENESİS İLAÇ VE SAĞLIK ÜRÜNLERİ A.Ş.",
+      "price": "19.50",
+      "id": "332"
+  },
+  {
+      "name": "ACTIQ 800 MCG OROMUKOZAL APLIKATORLU 3 PASTIL",
+      "brand": "GENESİS İLAÇ VE SAĞLIK ÜRÜNLERİ A.Ş.",
+      "price": "19.50",
+      "id": "333"
+  },
+  {
+      "name": "ACTIVELLE 28 FILM TABLET",
+      "brand": "NOVO NORDİSK SAĞLIK ÜRÜNLERİ TİC. LTD. ŞTİ.",
+      "price": "5.32",
+      "id": "334"
+  },
+  {
+      "name": "ACTONEL 35 MG 4 FILM TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "8.79",
+      "id": "335"
+  },
+  {
+      "name": "ACTONEL 35 MG 4 FILM TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "8.79",
+      "id": "336"
+  },
+  {
+      "name": "ACTONEL 35 MG 4 FILM TABLET",
+      "brand": "SANOFI AVENTIS",
+      "price": "8.79",
+      "id": "337"
+  },
+  {
+      "name": "ACTONEL 75 MG 6 FILM KAPLI TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "33.42",
+      "id": "338"
+  },
+  {
+      "name": "ACTOS 15 MG 28 TABLET",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "8.89",
+      "id": "339"
+  },
+  {
+      "name": "ACTOS 15 MG 28 TABLET",
+      "brand": "ACİNO TURKEY İLAÇ ANONİM ŞİRKETİ",
+      "price": "8.89",
+      "id": "340"
+  },
+  {
+      "name": "ACTOS 30 MG 28 TABLET",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "12.41",
+      "id": "341"
+  },
+  {
+      "name": "ACTOS 30 MG TABLET (28 TABLET)",
+      "brand": "ACİNO TURKEY İLAÇ ANONİM ŞİRKETİ",
+      "price": "12.41",
+      "id": "342"
+  },
+  {
+      "name": "ACTRAPID HM 100 IU/ML DERIALTI VE IV KULLANIM ICIN ENJ. COZELTI ICEREN 1 FLAKON",
+      "brand": "NOVO NORDİSK SAĞLIK ÜRÜNLERİ TİC. LTD. ŞTİ.",
+      "price": "8.33",
+      "id": "343"
+  },
+  {
+      "name": "ACTRAPID HM PENFILL 100/3 IU/ML 5 PENFILL",
+      "brand": "NOVO NORDİSK SAĞLIK ÜRÜNLERİ TİC. LTD. ŞTİ.",
+      "price": "17.54",
+      "id": "344"
+  },
+  {
+      "name": "ACUFIX %0,4 GOZ DAMLASI 5 ML",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.46",
+      "id": "345"
+  },
+  {
+      "name": "ACUITEL 20 MG 20 FILM KAPLI TABLET",
+      "brand": "PFİZER İLAÇLARI LTD. ŞTİ.",
+      "price": "3.61",
+      "id": "346"
+  },
+  {
+      "name": "ACUITEL 20 MG BOLUNEBILIR FILM KAPLI TABLET (20 TABLET)",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "3.61",
+      "id": "347"
+  },
+  {
+      "name": "ACUITEL 40 MG 28 FILM KAPLI TABLET",
+      "brand": "PFİZER İLAÇLARI LTD. ŞTİ.",
+      "price": "5.96",
+      "id": "348"
+  },
+  {
+      "name": "ACUITEL 40 MG BOLUNEBILIR 28 FILM KAPLI TABLET",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "5.96",
+      "id": "349"
+  },
+  {
+      "name": "ACUITEL 5 MG 20 FILM KAPLI TABLET",
+      "brand": "PFİZER İLAÇLARI LTD. ŞTİ.",
+      "price": "2.41",
+      "id": "350"
+  },
+  {
+      "name": "ACUITEL 5 MG BOLUNEBILIR FILM KAPLI TABLET (20 TABLET)",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "2.41",
+      "id": "351"
+  },
+  {
+      "name": "ACULAR LS STERIL GOZ DAMLASI %0,4 5 ML",
+      "brand": "ALLERGAN İLAÇLARI TİC. A.Ş.",
+      "price": "3.46",
+      "id": "352"
+  },
+  {
+      "name": "ACYL %5 10 GR KREM",
+      "brand": "GLOBAL PHARMA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "17.30",
+      "id": "353"
+  },
+  {
+      "name": "ACYL %5 10 GR KREM",
+      "brand": "METİN SAĞLIK ECZA DEPOSU İLAÇ SANAYİ VE TİC.LTD.ŞTİ",
+      "price": "17.30",
+      "id": "354"
+  },
+  {
+      "name": "ACYL 200 MG 25 TABLET",
+      "brand": "METİN SAĞLIK ECZA DEPOSU İLAÇ SANAYİ VE TİC.LTD.ŞTİ",
+      "price": "4.32",
+      "id": "355"
+  },
+  {
+      "name": "ADACEL 0,5 ML IM ENJ. ICIN SUS. ICEREN FLAKON",
+      "brand": "SANOFİ PASTEUR AŞI TİC. A.Ş.",
+      "price": "22.24",
+      "id": "356"
+  },
+  {
+      "name": "ADACEL POLIO 0,5 ML IM ENJ. ICIN SUS. ICEREN KUL.HAZ.ENJ.",
+      "brand": "SANOFİ PASTEUR AŞI TİC. A.Ş.",
+      "price": "18.04",
+      "id": "357"
+  },
+  {
+      "name": "ADAFEN 30 TABLET",
+      "brand": "AKDENİZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "0.91",
+      "id": "358"
+  },
+  {
+      "name": "ADALAT CRONO 30 MG 20 KONTROLLU SALIM TABLETI",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "6.48",
+      "id": "359"
+  },
+  {
+      "name": "ADALAT CRONO 60 MG 20 KONTROLLU SALIM TABLETI",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "8.74",
+      "id": "360"
+  },
+  {
+      "name": "ADASUVE 9,1MG INHALASYON ICIN KULLANIMA HAZIR TOZ(1 ADET)",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "67.02",
+      "id": "361"
+  },
+  {
+      "name": "ADCETRIS 50 MG IV INFUZYONLUK COZELTI KONSANTRESI ICEREN FLAKON (1 FLAKON)",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "2750.81",
+      "id": "362"
+  },
+  {
+      "name": "ADDAVEN INFUZYONLUK COZELTI HAZIRLAMAK ICIN KONSANTRE, 20 AMPUL",
+      "brand": "FRESENİUS KABİ İLAÇ SAN. ve TİC. LTD. ŞTİ.",
+      "price": "41.42",
+      "id": "363"
+  },
+  {
+      "name": "ADELEKS 4 MG 20 TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.15",
+      "id": "364"
+  },
+  {
+      "name": "ADELEKS 4 MG/2 ML IM ENJEKSIYONLUK COZELTI ICEREN AMPUL (6 AMPUL)",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.26",
+      "id": "365"
+  },
+  {
+      "name": "ADELEKS 8 MG 14 TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.43",
+      "id": "366"
+  },
+  {
+      "name": "ADELEKS 8 MG 20 TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "6.42",
+      "id": "367"
+  },
+  {
+      "name": "ADEMPAS 0,5 MG 42 FILM KAPLI TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1042.44",
+      "id": "368"
+  },
+  {
+      "name": "ADEMPAS 1 MG 42 FILM KAPLI TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1042.44",
+      "id": "369"
+  },
+  {
+      "name": "ADEMPAS 1,5 MG 42 FILM KAPLI TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1042.44",
+      "id": "370"
+  },
+  {
+      "name": "ADEMPAS 2 MG 42 FILM KAPLI TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1042.44",
+      "id": "371"
+  },
+  {
+      "name": "ADEMPAS 2,5 MG 42 FILM KAPLI TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1042.44",
+      "id": "372"
+  },
+  {
+      "name": "ADENOSIN-L.M. 5 MG/ML ENJ/INF. ICIN COZ. ICEREN 10 ML 10 FLAKON",
+      "brand": "ABFEN FARMA SAN. VE TİC.LTD.ŞTİ.",
+      "price": "270.57",
+      "id": "373"
+  },
+  {
+      "name": "ADENOSIN-L.M. 5 MG/ML ENJ/INF. ICIN COZ. ICEREN 2 ML 10 AMPUL",
+      "brand": "ABFEN FARMA SAN. VE TİC.LTD.ŞTİ.",
+      "price": "73.41",
+      "id": "374"
+  },
+  {
+      "name": "ADENOSIN-L.M. 5 MG/ML ENJ/INF. ICIN COZ. ICEREN 50 ML 10 FLAKON",
+      "brand": "ABFEN FARMA SAN. VE TİC.LTD.ŞTİ.",
+      "price": "480.56",
+      "id": "375"
+  },
+  {
+      "name": "ADENOTEK 6 MG/2ML IV ENJ/INF. ICIN COZ. ICEREN 1 AMPUL",
+      "brand": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "4.40",
+      "id": "376"
+  },
+  {
+      "name": "ADENOTEK 6 MG/2ML IV ENJ/INF. ICIN COZ. ICEREN 10 AMPUL",
+      "brand": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "44.04",
+      "id": "377"
+  },
+  {
+      "name": "ADENURIC 120 MG 28 FILM KAPLI TABLET",
+      "brand": "MENARİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "13.06",
+      "id": "378"
+  },
+  {
+      "name": "ADENURIC 80 MG 28 FILM KAPLI TABLET",
+      "brand": "MENARİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.10",
+      "id": "379"
+  },
+  {
+      "name": "ADEPIRON 1 GR/2 ML ENJEKSIYONLUK COZELTI",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.08",
+      "id": "380"
+  },
+  {
+      "name": "ADEPIRON 2,5 GR/5 ML ENJEKSIYONLUK COZELTI",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "11.35",
+      "id": "381"
+  },
+  {
+      "name": "ADEPIRON 250 MG/5 ML 100 ML SURUP",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.41",
+      "id": "382"
+  },
+  {
+      "name": "ADEPIRON 500 MG TABLET",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.75",
+      "id": "383"
+  },
+  {
+      "name": "ADOPORT 0,5 MG 50 KAPSUL",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "17.48",
+      "id": "384"
+  },
+  {
+      "name": "ADOPORT 1 MG 50 KAPSUL",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "30.31",
+      "id": "385"
+  },
+  {
+      "name": "ADOPORT 5 MG 50 KAPSUL",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "375.00",
+      "id": "386"
+  },
+  {
+      "name": "ADOZIN 10 MG/2ML IV ENJEKSIYON VE INFUZYON ICIN COZELTI ICEREN 2ML 10 AMPUL",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "73.41",
+      "id": "387"
+  },
+  {
+      "name": "ADOZIN 250 MG/50 ML IV ENJEKSIYON VE INFUZYON ICIN COZELTI ICEREN 10 FLAKON",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "480.56",
+      "id": "388"
+  },
+  {
+      "name": "ADOZIN 3 MG/ML IV ENJEKSIYON VE INFUZYON ICIN COZELTI ICEREN 2ML 1 AMPUL",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "4.40",
+      "id": "389"
+  },
+  {
+      "name": "ADOZIN 50 MG/10 ML IV ENJEKSIYON VE INFUZYON ICIN COZELTI ICEREN 10 FLAKON",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "270.57",
+      "id": "390"
+  },
+  {
+      "name": "ADRENALIN 0,25 MG 10 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.53",
+      "id": "391"
+  },
+  {
+      "name": "ADRENALIN 0,25 MG/ 1 ML ENJEKSIYONLUK COZELTI, 10 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "1.44",
+      "id": "392"
+  },
+  {
+      "name": "ADRENALIN 0,25 MG/ 1 ML ENJEKSIYONLUK COZELTI, 100 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "10.38",
+      "id": "393"
+  },
+  {
+      "name": "ADRENALIN 0,5 MG 10 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.53",
+      "id": "394"
+  },
+  {
+      "name": "ADRENALIN 0,5 MG/ 1 ML ENJEKSIYONLUK COZELTI, 10 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "1.49",
+      "id": "395"
+  },
+  {
+      "name": "ADRENALIN 0,5 MG/ 1 ML ENJEKSIYONLUK COZELTI, 100 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "10.45",
+      "id": "396"
+  },
+  {
+      "name": "ADRENALIN 1 MG 10 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.83",
+      "id": "397"
+  },
+  {
+      "name": "ADRENALIN 1 MG/ 1 ML ENJEKSIYONLUK COZELTI, 10 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "1.65",
+      "id": "398"
+  },
+  {
+      "name": "ADRENALIN 1 MG/1 ML ENJEKSIYONLUK COZELTI, 100 AMPUL",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "10.88",
+      "id": "399"
+  },
+  {
+      "name": "ADRENALIN 1/4MG 1ML 100 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "9.46",
+      "id": "400"
+  },
+  {
+      "name": "ADRENALIN 1MG 1ML 100 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "13.21",
+      "id": "401"
+  },
+  {
+      "name": "ADRENALIN BAS GALEN 1 MG 10 AMP",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "1.79",
+      "id": "402"
+  },
+  {
+      "name": "ADRENALIN BAS.GALEN 0,25 MG 10 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "1.62",
+      "id": "403"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 0,25 MG 10 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.68",
+      "id": "404"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 0,25 MG/1 ML 100 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "8.69",
+      "id": "405"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 0,50 MG 10 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.80",
+      "id": "406"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 0,5MG/1 ML 100 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.17",
+      "id": "407"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 1 MG 10 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.81",
+      "id": "408"
+  },
+  {
+      "name": "ADRENALIN BIOFARMA 1 MG/1 ML 100 AMPUL",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.26",
+      "id": "409"
+  },
+  {
+      "name": "ADRENALIN COD.GALEN 0,5 MG 10 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "1.62",
+      "id": "410"
+  },
+  {
+      "name": "ADRENALIN CODEX 1/2MG 1 ML 100 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "9.86",
+      "id": "411"
+  },
+  {
+      "name": "ADRENOR 4 MG/4 ML IV INF. ICIN KON.COZ.ICEREN 10 AMPUL",
+      "brand": "FARMALAS İLAÇ SAN. VE TİC. LTD. ŞTİ.",
+      "price": "16.07",
+      "id": "412"
+  },
+  {
+      "name": "ADRIMISIN 10 MG LIY. ENJ. TOZ ICEREN FLAKON",
+      "brand": "SABA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.84",
+      "id": "413"
+  },
+  {
+      "name": "ADRIMISIN 50 MG LIY. ENJ. TOZ ICEREN FLAKON",
+      "brand": "SABA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "11.48",
+      "id": "414"
+  },
+  {
+      "name": "ADVAGRAF 0,5 MG 50 UZATILMIS SALIMLI 50 SERT KAPSUL",
+      "brand": "ASTELLAS PHARMA İLAÇ TİCARET VE SANAYİ A.Ş",
+      "price": "51.68",
+      "id": "415"
+  },
+  {
+      "name": "ADVAGRAF 1 MG 50 UZATILMIS SALIMLI 50 SERT KAPSUL",
+      "brand": "ASTELLAS PHARMA İLAÇ TİCARET VE SANAYİ A.Ş",
+      "price": "87.65",
+      "id": "416"
+  },
+  {
+      "name": "ADVAGRAF 3 MG UZATILMIS SALIMLI 50 KAPSUL",
+      "brand": "ASTELLAS PHARMA İLAÇ TİCARET VE SANAYİ A.Ş",
+      "price": "263.98",
+      "id": "417"
+  },
+  {
+      "name": "ADVAGRAF 5 MG 50 UZATILMIS SALIMLI 50 SERT KAPSUL",
+      "brand": "ASTELLAS PHARMA İLAÇ TİCARET VE SANAYİ A.Ş",
+      "price": "402.51",
+      "id": "418"
+  },
+  {
+      "name": "ADVANTAN %0,1 KREM 30 G",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "3.67",
+      "id": "419"
+  },
+  {
+      "name": "ADVANTAN %0,1 MERHEM 30 G",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "3.67",
+      "id": "420"
+  },
+  {
+      "name": "ADVANTAN %0,1 YAGLI MERHEM 15 GR",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "1.81",
+      "id": "421"
+  },
+  {
+      "name": "ADVANTAN 15 GR YAGLI POMAD",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "1.81",
+      "id": "422"
+  },
+  {
+      "name": "ADVANTAN 30 GR KREM",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "3.67",
+      "id": "423"
+  },
+  {
+      "name": "ADVANTAN 30 GR POMAD",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "3.67",
+      "id": "424"
+  },
+  {
+      "name": "ADVANTAN M %0,1 EMULSIYON 50 G",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "5.85",
+      "id": "425"
+  },
+  {
+      "name": "ADVANTAN M LOSYON 50 GR",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "5.85",
+      "id": "426"
+  },
+  {
+      "name": "ADVANTAN S %0,1 COZELTI %0,1 20 ML",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "4.54",
+      "id": "427"
+  },
+  {
+      "name": "ADVANTAN S COZELTI %0,1 20 ML",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "4.54",
+      "id": "428"
+  },
+  {
+      "name": "ADVATE 1000 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "603.50",
+      "id": "429"
+  },
+  {
+      "name": "ADVATE 1500 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "ECZACIBAŞI-BAXTER HASTANE ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+      "price": "905.25",
+      "id": "430"
+  },
+  {
+      "name": "ADVATE 1500 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "905.25",
+      "id": "431"
+  },
+  {
+      "name": "ADVATE 2000 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "1207.00",
+      "id": "432"
+  },
+  {
+      "name": "ADVATE 250 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "150.88",
+      "id": "433"
+  },
+  {
+      "name": "ADVATE 3000 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "1810.50",
+      "id": "434"
+  },
+  {
+      "name": "ADVATE 500 IU/5 ML IV ENJEKSIYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "301.75",
+      "id": "435"
+  },
+  {
+      "name": "ADVIL LIQUIGEL 200 MG 20 KAPSUL",
+      "brand": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+      "price": "3.57",
+      "id": "436"
+  },
+  {
+      "name": "ADVIL LIQUI-GELS 200 MG YUMUSAK KAPSUL (20 KAPSUL)",
+      "brand": "GLAXOSMITHKLINE TÜKETİCİ SAĞLIĞI ANONİM ŞİRKETİ",
+      "price": "3.57",
+      "id": "437"
+  },
+  {
+      "name": "AERIUS 0,5 MG/ML 150 ML SURUP",
+      "brand": "MERCK SHARP DOHME İLAÇLARI LTD. ŞTİ.",
+      "price": "3.38",
+      "id": "438"
+  },
+  {
+      "name": "AERIUS 5 MG 20 FILM TABLET",
+      "brand": "MERCK SHARP DOHME İLAÇLARI LTD. ŞTİ.",
+      "price": "3.53",
+      "id": "439"
+  },
+  {
+      "name": "AERODAY 18/12 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "67.64",
+      "id": "440"
+  },
+  {
+      "name": "AEROFOR 12 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.23",
+      "id": "441"
+  },
+  {
+      "name": "AEROHIT 100 MCG INHALASYON ICIN TOZ ICEREN BLISTER (60 DOZ)",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "5.43",
+      "id": "442"
+  },
+  {
+      "name": "AEROHIT 250 MCG INHALASYON ICIN TOZ ICEREN BLISTER (60 DOZ)",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.30",
+      "id": "443"
+  },
+  {
+      "name": "AEROHIT 50 MCG INHALASYON ICIN TOZ ICEREN BLISTER (60 DOZ)",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.71",
+      "id": "444"
+  },
+  {
+      "name": "AEROHIT 500 MCG INHALASYON ICIN TOZ ICEREN BLISTER (60 DOZ)",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "16.60",
+      "id": "445"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 0,5 60 MG 30 ML 1 FLAKON",
+      "brand": "ER-EM FARMA DIŞ TİCARET LTD.ŞTİ.",
+      "price": "13.20",
+      "id": "446"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 0.5 I.V. ENJEKSIYONLUK COZELTI ICEREN AMPUL ( 2 ML X 5 AMPUL )",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "11.90",
+      "id": "447"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 1 I.V. ENJEKSIYONLUK COZELTI ICEREN AMPUL ( 2 ML X 5 AMPUL )",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "14.62",
+      "id": "448"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 1 I.V. ENJEKSIYONLUK COZELTI ICEREN FLAKON (30 ML X 1 FLAKON)",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "34.50",
+      "id": "449"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 2 I.V. ENJEKSIYONLUK COZELTI ICEREN AMPUL ( 2 ML X 5 AMPUL )",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "16.75",
+      "id": "450"
+  },
+  {
+      "name": "AETHOXYSKLEROL % 3 I.V. ENJEKSIYONLUK COZELTI ICEREN AMPUL ( 2 ML X 5 AMPUL )",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "18.22",
+      "id": "451"
+  },
+  {
+      "name": "AFEBRYL 300 MG /300 MG/200 MG EFERVESAN TABLET (16 TABLET)",
+      "brand": "GALEPHARMA İLAÇ SAN. ve TİC. A.Ş",
+      "price": "3.34",
+      "id": "452"
+  },
+  {
+      "name": "A-FERIN 1 MG+160MG/5 ML PEDIYATRIK SURUP (100 ML)",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "1.73",
+      "id": "453"
+  },
+  {
+      "name": "A-FERIN 300 MG/2 MG/10 MG KAPSUL (30 KAPSUL)",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "2.45",
+      "id": "454"
+  },
+  {
+      "name": "A-FERIN FORTE 650 MG/4 MG FILM KAPLI TABLET (30 TABLET)",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "2.09",
+      "id": "455"
+  },
+  {
+      "name": "A-FERIN HOT 10 POSET",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "1.90",
+      "id": "456"
+  },
+  {
+      "name": "A-FERIN PLUS 1 MG+15 MG+160MG/5 ML PEDIYATRIK SURUP (100 ML)",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "1.72",
+      "id": "457"
+  },
+  {
+      "name": "A-FERIN SINUS 500/30/1,25 MG FILM KAPLI TABLET (20 TABLET)",
+      "brand": "HÜSNÜ ARSAN İLAÇLARI A.Ş.",
+      "price": "3.02",
+      "id": "458"
+  },
+  {
+      "name": "AFILTA 20 MG 2 FILM TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "19.69",
+      "id": "459"
+  },
+  {
+      "name": "AFILTA 20 MG 4 FILM TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "50.53",
+      "id": "460"
+  },
+  {
+      "name": "AFINITOR 10 MG 30 TABLET",
+      "brand": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "2223.49",
+      "id": "461"
+  },
+  {
+      "name": "AFINITOR 5 MG 30 TABLET",
+      "brand": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "1706.57",
+      "id": "462"
+  },
+  {
+      "name": "AFRO 25 MG 40 TABLET",
+      "brand": "CASEL ECZACI CAHİT SELİMOĞLU İLAÇ SANAYİİ VE TİCARET LİMİTED ŞİRKETİ",
+      "price": "2.15",
+      "id": "463"
+  },
+  {
+      "name": "AFTOJEL %0,1 + %3 JEL",
+      "brand": "ORVA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.87",
+      "id": "464"
+  },
+  {
+      "name": "AFUNDAS-L 50 MG I.V. INFUZYONLUK LIYOFILIZE TOZ ICEREN 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "308.58",
+      "id": "465"
+  },
+  {
+      "name": "AFUNDAS-L 70 MG I.V. INFUZYONLUK LIYOFILIZE TOZ ICEREN 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "391.57",
+      "id": "466"
+  },
+  {
+      "name": "AGNUCASTON 30 FILM TABLET",
+      "brand": "BİONORİCA İLAÇ TİCARET A.Ş.",
+      "price": "6.80",
+      "id": "467"
+  },
+  {
+      "name": "AGRABAN 12,5 MG/50 ML IV INF. ICIN KON. COZ. ICEREN FLAKON",
+      "brand": "DEMBERK İLAÇ SAN. VE TİC. LTD. ŞTİ.",
+      "price": "107.03",
+      "id": "468"
+  },
+  {
+      "name": "AGRABAN 12.5 MG/50 ML IV INFUZYONLUK KONSANTRE COZELTI (1 FLAKON)",
+      "brand": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
+      "price": "107.03",
+      "id": "469"
+  },
+  {
+      "name": "AGRABLOC 12,5 MG/50 ML IV INF. ICIN KON. COZ. ICEREN FLAKON (1 FLAKON)",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "107.03",
+      "id": "470"
+  },
+  {
+      "name": "AGRASEL 12,5 MG/50 ML IV INF. ICIN KON. COZ. ICEREN FLAKON",
+      "brand": "HAVER FARMA İLAÇ ANONİM ŞİRKETİ",
+      "price": "107.03",
+      "id": "471"
+  },
+  {
+      "name": "AGREDUR READY 50 MCG/ML I.V. INFUZYON ICIN COZELTI (250 ML)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "105.88",
+      "id": "472"
+  },
+  {
+      "name": "AGRILOR 90 MG FILM KAPLI TABLET (56 TABLET)",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "52.35",
+      "id": "473"
+  },
+  {
+      "name": "AIMAFIX 500 IU/10 ML IV INFUZYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "KEDRİON BETAPHAR BİYOFARMASÖTİK İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "198.11",
+      "id": "474"
+  },
+  {
+      "name": "AIMAFIX-D 500 IU 1 FLAKON",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "198.11",
+      "id": "475"
+  },
+  {
+      "name": "AIRBIR 6/200 MCG INHALASYON ICIN TOZ ICEREN KAPSUL (60 KAPSUL)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "19.40",
+      "id": "476"
+  },
+  {
+      "name": "AIRBIR 6/400 MCG INHALASYON ICIN TOZ ICEREN KAPSUL (60 KAPSUL)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "22.60",
+      "id": "477"
+  },
+  {
+      "name": "AIRCOMB 2,5 MG / 4 MG GRANUL ICEREN SASE (30 SASE)",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "14.84",
+      "id": "478"
+  },
+  {
+      "name": "AIRCOMB 5/10 MG 30 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.79",
+      "id": "479"
+  },
+  {
+      "name": "AIRCOMB 5/10 MG 90 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "52.59",
+      "id": "480"
+  },
+  {
+      "name": "AIRFIX 10 MG 28 FILM TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "10.41",
+      "id": "481"
+  },
+  {
+      "name": "AIRFIX 10 MG 84 FILM TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "31.23",
+      "id": "482"
+  },
+  {
+      "name": "AIRFIX 4 MG 28 CIGNEME TABLETI",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "10.41",
+      "id": "483"
+  },
+  {
+      "name": "AIRFIX 4 MG 56 CIGNEME TABLETI",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "20.82",
+      "id": "484"
+  },
+  {
+      "name": "AIRFIX 4 MG 84 CIGNEME TABLETI",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "31.23",
+      "id": "485"
+  },
+  {
+      "name": "AIRFIX 4 MG GRANUL ICEREN SASE",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "10.41",
+      "id": "486"
+  },
+  {
+      "name": "AIRFIX 5 MG 28 CIGNEME TABLETI",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "10.41",
+      "id": "487"
+  },
+  {
+      "name": "AIRFIX 5 MG 84 CIGNEME TABLETI",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "31.23",
+      "id": "488"
+  },
+  {
+      "name": "AIRLAST 10 MG 28 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.41",
+      "id": "489"
+  },
+  {
+      "name": "AIRLAST 4 MG 28 CIGNEME TABLETI",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.41",
+      "id": "490"
+  },
+  {
+      "name": "AIRLAST 5 MG 28 CIGNEME TABLETI",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.41",
+      "id": "491"
+  },
+  {
+      "name": "AIRMETA 200 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "11.10",
+      "id": "492"
+  },
+  {
+      "name": "AIRMETA 400 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "32.76",
+      "id": "493"
+  },
+  {
+      "name": "AIRMOL 10 MG 28 FILM TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "494"
+  },
+  {
+      "name": "AIRMOL 4 MG 28 CIGNEME TABLETI",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "495"
+  },
+  {
+      "name": "AIRMOL 4 MG 28 SASE",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "496"
+  },
+  {
+      "name": "AIRMOL 4 MG 56 CIGNEME TABLETI",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "20.82",
+      "id": "497"
+  },
+  {
+      "name": "AIRMOL 4 MG 84 CIGNEME TABLETI",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "31.23",
+      "id": "498"
+  },
+  {
+      "name": "AIRMOL 5 MG 28 CIGNEME TABLETI",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "499"
+  },
+  {
+      "name": "AIRMOL 5 MG 84 CIGNEME TABLETI",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "31.23",
+      "id": "500"
+  },
+  {
+      "name": "AIRPACK 12 MCG-200 MCG INHALASYON ICIN TOZ ICEREN 120 KAPSUL",
+      "brand": "NUVOMED İLAÇ SANAYİ TİCARET A.Ş.",
+      "price": "47.68",
+      "id": "501"
+  },
+  {
+      "name": "AIRPACK 12 MCG-400 MCG INHALASYON ICIN TOZ ICEREN 120 KAPSUL",
+      "brand": "NUVOMED İLAÇ SANAYİ TİCARET A.Ş.",
+      "price": "55.68",
+      "id": "502"
+  },
+  {
+      "name": "AIRPASS 5/10 MG 30 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "13.86",
+      "id": "503"
+  },
+  {
+      "name": "AIRPASS 5/10 MG 90 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "47.99",
+      "id": "504"
+  },
+  {
+      "name": "AIRPLUS 25/125 MCG INHALASYON ICIN OLCULU DOZLU AEROSOL 120 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "20.54",
+      "id": "505"
+  },
+  {
+      "name": "AIRPLUS 25/250 MCG INHALASYON ICIN OLCULU DOZLU AEROSOL 120 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "26.13",
+      "id": "506"
+  },
+  {
+      "name": "AIRPLUS 25/50 MCG INHALASYON ICIN OLCULU DOZLU AEROSOL 120 DOZ",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "16.48",
+      "id": "507"
+  },
+  {
+      "name": "AIRPLUS 50/100 MCG DISCAIR INHALASYON ICIN TOZ 60 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "15.38",
+      "id": "508"
+  },
+  {
+      "name": "AIRPLUS 50/250 MCG DISCAIR INHALASYON ICIN TOZ 60 DOZ",
+      "brand": "ACİNO TURKEY İLAÇ ANONİM ŞİRKETİ",
+      "price": "21.00",
+      "id": "509"
+  },
+  {
+      "name": "AIRPLUS 50/250 MCG DISCAIR INHALASYON ICIN TOZ 60 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "21.00",
+      "id": "510"
+  },
+  {
+      "name": "AIRPLUS 50/500 MCG DISCAIR INHALASYON ICIN TOZ 60 DOZ",
+      "brand": "ACİNO TURKEY İLAÇ ANONİM ŞİRKETİ",
+      "price": "25.77",
+      "id": "511"
+  },
+  {
+      "name": "AIRPLUS 50/500 MCG DISCAIR INHALASYON ICIN TOZ 60 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "25.77",
+      "id": "512"
+  },
+  {
+      "name": "AIRPUFF 25 MCG/125 MCG AEROSOL INHALASYONU , SUSPANSIYON (120 DOZ)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "20.54",
+      "id": "513"
+  },
+  {
+      "name": "AIRPUFF 25 MCG/250 MCG AEROSOL INHALASYONU , SUSPANSIYON (120 DOZ)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "26.13",
+      "id": "514"
+  },
+  {
+      "name": "AIRPUFF DISCAIR 50 MCG/100 MCG INHALASYON TOZU (60 DOZ)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "15.38",
+      "id": "515"
+  },
+  {
+      "name": "AIRPUFF DISCAIR 50MCG/250 MCG INHALASYON TOZU (60 DOZ)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "21.00",
+      "id": "516"
+  },
+  {
+      "name": "AIRPUFF DISCAIR 50MCG/500 MCG INHALASYON TOZU (60 DOZ)",
+      "brand": "NEUTEC İNHALER İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "25.77",
+      "id": "517"
+  },
+  {
+      "name": "AIRSONID 200 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "18.87",
+      "id": "518"
+  },
+  {
+      "name": "AIRSONID 400 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "37.75",
+      "id": "519"
+  },
+  {
+      "name": "AIRTIDE 100 MCG/50 MCG INHALASYON ICIN TOZ ICEREN KAPSUL",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.88",
+      "id": "520"
+  },
+  {
+      "name": "AIRTIDE 250 MCG/50 MCG INHALASYON ICIN TOZ ICEREN KAPSUL",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "21.82",
+      "id": "521"
+  },
+  {
+      "name": "AIRTIDE 500 MCG/50 MCG INHALASYON ICIN TOZ ICEREN KAPSUL",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "26.44",
+      "id": "522"
+  },
+  {
+      "name": "AIRWAY 1 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "51.00",
+      "id": "523"
+  },
+  {
+      "name": "AIRWAY 2 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "51.62",
+      "id": "524"
+  },
+  {
+      "name": "AIRWAY 4 MCG INHALASYON ICIN TOZ ICEREN BLISTER 60 DOZ",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "52.86",
+      "id": "525"
+  },
+  {
+      "name": "AKELA % 2 30 GR JEL",
+      "brand": "AKUR SAĞLIK ÜRÜNLERİ ÜRETİM DAĞITIM VE PAZARLAMA TİC.A.Ş.",
+      "price": "4.89",
+      "id": "526"
+  },
+  {
+      "name": "AKELA FORTE % 4 30 GR JEL",
+      "brand": "AKUR SAĞLIK ÜRÜNLERİ ÜRETİM DAĞITIM VE PAZARLAMA TİC.A.Ş.",
+      "price": "5.43",
+      "id": "527"
+  },
+  {
+      "name": "AKINETON 2 MG 100 TABLET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "7.01",
+      "id": "528"
+  },
+  {
+      "name": "AKINETON 5 MG/ML ENJEKSIYON ICIN SOLUSYON ICEREN 1 ML X 5 AMPUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "4.62",
+      "id": "529"
+  },
+  {
+      "name": "AKLOFEN %3 JEL (30 GR)",
+      "brand": "LİLYUM İLAÇ VE KİMYA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "price": "20.77",
+      "id": "530"
+  },
+  {
+      "name": "AKLOFEN %3 JEL (30 GR)",
+      "brand": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+      "price": "20.77",
+      "id": "531"
+  },
+  {
+      "name": "AKLOVIR %5 10 GR KREM",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.46",
+      "id": "532"
+  },
+  {
+      "name": "AKLOVIR 200 MG 100 ML SUSPANSIYON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.84",
+      "id": "533"
+  },
+  {
+      "name": "AKLOVIR 200 MG 25 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.32",
+      "id": "534"
+  },
+  {
+      "name": "AKLOVIR 800 MG 20 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "18.00",
+      "id": "535"
+  },
+  {
+      "name": "AKNEFLOKS %1 30 GR KREM",
+      "brand": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+      "price": "7.17",
+      "id": "536"
+  },
+  {
+      "name": "AKNESILEX 30 MG/G MERHEM",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "9.07",
+      "id": "537"
+  },
+  {
+      "name": "AKNETRENT 10 MG YUMUSAK JELATIN 30 KAPSUL",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "8.07",
+      "id": "538"
+  },
+  {
+      "name": "AKNETRENT 20 MG YUMUSAK JELATIN 30 KAPSUL",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "14.01",
+      "id": "539"
+  },
+  {
+      "name": "AKNILOX % 2 30 GR JEL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "4.89",
+      "id": "540"
+  },
+  {
+      "name": "AKNILOX % 4 30 GR JEL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "5.43",
+      "id": "541"
+  },
+  {
+      "name": "AKSEF 250 MG 10 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.46",
+      "id": "542"
+  },
+  {
+      "name": "AKSEF 250 MG 14 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.99",
+      "id": "543"
+  },
+  {
+      "name": "AKSEF 250 MG 20 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.68",
+      "id": "544"
+  },
+  {
+      "name": "AKSEF 250 MG IM/IV ENJEKSIYONLUK TOZ 1 FLAKON",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.79",
+      "id": "545"
+  },
+  {
+      "name": "AKSEF 500 MG 10 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.20",
+      "id": "546"
+  },
+  {
+      "name": "AKSEF 500 MG 14 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "5.34",
+      "id": "547"
+  },
+  {
+      "name": "AKSEF 500 MG 20 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "12.40",
+      "id": "548"
+  },
+  {
+      "name": "AKSEF 750 MG IM ENJEKSIYONLUK TOZ 1 FLAKON",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "4.48",
+      "id": "549"
+  },
+  {
+      "name": "AKSEF 750 MG IM/IV ENJEKSIYONLUK TOZ 1 FLAKON",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.21",
+      "id": "550"
+  },
+  {
+      "name": "AKSEF IM/IV 1500 MG 1 FLAKON",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.01",
+      "id": "551"
+  },
+  {
+      "name": "AKTAZID 25 MG/25 MG FILM KAPLI TABLET (30 TABLET)",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.73",
+      "id": "552"
+  },
+  {
+      "name": "AKTAZID 50 MG/50 MG FILM KAPLI TABLET (30 TABLET)",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.46",
+      "id": "553"
+  },
+  {
+      "name": "AKTIBOL 1000 MCG 50 KAPSUL",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.90",
+      "id": "554"
+  },
+  {
+      "name": "AKTIBOL-L 5 ML 1000 MCG 5 AMPUL",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.64",
+      "id": "555"
+  },
+  {
+      "name": "AL 110 400 G",
+      "brand": "NESTLE TÜRKİYE GIDA SANAYİ A.Ş.",
+      "price": "11.72",
+      "id": "556"
+  },
+  {
+      "name": "ALARIN 1 MG 100 ML SURUP",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.22",
+      "id": "557"
+  },
+  {
+      "name": "ALARIN 10 MG 20 TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.69",
+      "id": "558"
+  },
+  {
+      "name": "ALATAB 600 MG 30 FILM TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "18.30",
+      "id": "559"
+  },
+  {
+      "name": "ALBACORT 15 G KREM",
+      "brand": "KENTFARMA İLAÇ ANONİM ŞİRKETİ",
+      "price": "6.93",
+      "id": "560"
+  },
+  {
+      "name": "ALBACORT 15 G KREM",
+      "brand": "LİVA İLAÇ PAZARLAMA SAN. VE TİC. A.Ş.",
+      "price": "6.93",
+      "id": "561"
+  },
+  {
+      "name": "ALBAREN %1 JEL 50 GR",
+      "brand": "KENTFARMA İLAÇ ANONİM ŞİRKETİ",
+      "price": "2.84",
+      "id": "562"
+  },
+  {
+      "name": "ALBIOMIN %20 100 ML IV INFUZYONLUK COZELTI (1 FLAKON)",
+      "brand": "MAXİCELLS İLAÇ SANAYİ ANONİM ŞİRKETİ",
+      "price": "52.23",
+      "id": "563"
+  },
+  {
+      "name": "ALBIOMIN %20 50 ML IV INFUZYONLUK COZELTI",
+      "brand": "MAXİCELLS İLAÇ SANAYİ ANONİM ŞİRKETİ",
+      "price": "26.33",
+      "id": "564"
+  },
+  {
+      "name": "ALBITROL 500 MG FILM KAPLI TABLET (10 FILM KAPLI TABLET)",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.40",
+      "id": "565"
+  },
+  {
+      "name": "ALBUMAN 200 MG/ML 100 ML IV INFUZYON ICIN COZELTI ICEREN FLAKON",
+      "brand": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "83.5",
+      "id": "566"
+  },
+  {
+      "name": "ALBUMAN 200 MG/ML 50 ML INFUZYON ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "44.75",
+      "id": "567"
+  },
+  {
+      "name": "ALCAINE %0,5 MG GOZ DAMLASI, COZELTI (15 ML)",
+      "brand": "ALCON LABORATUVARLARI TİC. A.Ş.",
+      "price": "2.71",
+      "id": "568"
+  },
+  {
+      "name": "ALCAINE 5 MG 15 ML OFT.SOL.",
+      "brand": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "2.71",
+      "id": "569"
+  },
+  {
+      "name": "ALCEBA 10 MG 100 TABLET",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "40.75",
+      "id": "570"
+  },
+  {
+      "name": "ALCEBA 10 MG 20 FILM TABLET",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "9.04",
+      "id": "571"
+  },
+  {
+      "name": "ALCEBA 10 MG 50 FILM TABLET",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "22.61",
+      "id": "572"
+  },
+  {
+      "name": "ALCEBA 10 MG FILM TABLET (30 TABLET)",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "13.56",
+      "id": "573"
+  },
+  {
+      "name": "ALCEBA ORAL DAMLA",
+      "brand": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "price": "82.80",
+      "id": "574"
+  },
+  {
+      "name": "ALDACTAZIDE 25 MG 30 TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "2.74",
+      "id": "575"
+  },
+  {
+      "name": "ALDACTAZIDE 50 MG 30 TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "3.46",
+      "id": "576"
+  },
+  {
+      "name": "ALDACTONE 100 MG 16 TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "1.84",
+      "id": "577"
+  },
+  {
+      "name": "ALDACTONE 25 MG 20 TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "1.35",
+      "id": "578"
+  },
+  {
+      "name": "ALDARA %5 KREM",
+      "brand": "MEDA PHARMA İLAÇ SANAYİ VE TİCARET LTD. ŞTİ.",
+      "price": "43.24",
+      "id": "579"
+  },
+  {
+      "name": "ALDINE 100 MG/2 ML ENJEKSIYONLUK COZELTI (5 AMPUL)",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "4.95",
+      "id": "580"
+  },
+  {
+      "name": "ALDOLAN 100 MG/2 ML 25 AMPUL",
+      "brand": "LİBA LABORATUARLARI A.Ş.",
+      "price": "12.50",
+      "id": "581"
+  },
+  {
+      "name": "ALDOLAN 100 MG/2 ML ENJEKSIYONLUKCOZELTI (5 AMPUL)",
+      "brand": "LİBA LABORATUARLARI A.Ş.",
+      "price": "3.46",
+      "id": "582"
+  },
+  {
+      "name": "ALDURAZYME 100 U/ML INF. ICIN KONSANTRE COZELTI 5 ML",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "766.68",
+      "id": "583"
+  },
+  {
+      "name": "ALECAST 10 MG 28 FILM KAPLI TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "584"
+  },
+  {
+      "name": "ALECAST 10 MG 84 FILM KAPLI TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "31.23",
+      "id": "585"
+  },
+  {
+      "name": "ALECAST 4 MG 28 CIGNEME TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "586"
+  },
+  {
+      "name": "ALECAST 5 MG 28 CIGNEME TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.41",
+      "id": "587"
+  },
+  {
+      "name": "ALECENSA 150 MG 224 SERT KAPSUL",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "3617.08",
+      "id": "588"
+  },
+  {
+      "name": "ALEFORT 70 MG/2800 IU 4 EFERVESAN TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.34",
+      "id": "589"
+  },
+  {
+      "name": "ALEMAKS 70 MG 12 TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "19.17",
+      "id": "590"
+  },
+  {
+      "name": "ALEMAKS 70 MG 4 TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "6.39",
+      "id": "591"
+  },
+  {
+      "name": "ALEREX 20 MG 20 TABLET",
+      "brand": "ULAGAYLAR İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.00",
+      "id": "592"
+  },
+  {
+      "name": "ALERFIN 2 MG/5 ML ORAL COZELTI 100 ML",
+      "brand": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+      "price": "1.85",
+      "id": "593"
+  },
+  {
+      "name": "ALERINIT 5 MG 20 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.20",
+      "id": "594"
+  },
+  {
+      "name": "ALERTEC 120 MG 20 FILM TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.79",
+      "id": "595"
+  },
+  {
+      "name": "ALERTEC 180 MG 20 FILM TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.79",
+      "id": "596"
+  },
+  {
+      "name": "ALEVE 220 MG 20 FILM TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "6.03",
+      "id": "597"
+  },
+  {
+      "name": "ALEXAN 100 MG/5 ML IV/SC 10 INT. ENJ. INF. ICIN COZ. ICEREN 10 FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "24.50",
+      "id": "598"
+  },
+  {
+      "name": "ALEXAN 1000 MG/20 ML IV/SC 1 INT. ENJ. INF. ICIN COZ. ICEREN 1 FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "14.38",
+      "id": "599"
+  },
+  {
+      "name": "ALEXAN 40 MG/2 ML 30 FLAKON",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "29.40",
+      "id": "600"
+  },
+  {
+      "name": "ALFALIPAL 600 MG FILM KAPLI TABLET (30 TABLET)",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "18.30",
+      "id": "601"
+  },
+  {
+      "name": "ALFAMET 250 MG FILM KAPLI TABLET",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "2.32",
+      "id": "602"
+  },
+  {
+      "name": "ALFAMINO 400 G",
+      "brand": "NESTLE TÜRKİYE GIDA SANAYİ A.Ş.",
+      "price": "33.28",
+      "id": "603"
+  },
+  {
+      "name": "ALFASID 1 GR IM ENJ. ICIN TOZ ICEREN FLAKON 1 FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.39",
+      "id": "604"
+  },
+  {
+      "name": "ALFASID 250 MG 40 ML SUSPANSIYON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "3.17",
+      "id": "605"
+  },
+  {
+      "name": "ALFASID 250 MG 70 ML SUSPANSIYON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "4.59",
+      "id": "606"
+  },
+  {
+      "name": "ALFASID 250 MG IM ENJ.ICIN TOZ ICEREN FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.16",
+      "id": "607"
+  },
+  {
+      "name": "ALFASID 250 MG IM/IV ENJ.ICIN TOZ ICEREN FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.16",
+      "id": "608"
+  },
+  {
+      "name": "ALFASID 375 MG 10 FILM TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "3.46",
+      "id": "609"
+  },
+  {
+      "name": "ALFASID 375 MG 14 FILM TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "5.74",
+      "id": "610"
+  },
+  {
+      "name": "ALFASID 500 MG IM ENJ.ICIN TOZ ICEREN FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.48",
+      "id": "611"
+  },
+  {
+      "name": "ALFASID 500 MG IM/IV ENJ.ICIN TOZ ICEREN FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.48",
+      "id": "612"
+  },
+  {
+      "name": "ALFASID 750 MG 10 FILM TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "8.20",
+      "id": "613"
+  },
+  {
+      "name": "ALFASID 750 MG 14 F.TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "9.18",
+      "id": "614"
+  },
+  {
+      "name": "ALFASID IM/IV 1 GR 1 FLAKON",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.39",
+      "id": "615"
+  },
+  {
+      "name": "ALFASILIN 1 GR 1 FLAKON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.29",
+      "id": "616"
+  },
+  {
+      "name": "ALFASILIN 1 GR 16 TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "3.46",
+      "id": "617"
+  },
+  {
+      "name": "ALFASILIN 250 MG 80 ML SUSPANSIYON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "2.00",
+      "id": "618"
+  },
+  {
+      "name": "ALFASILIN 500 MG 1 FLAKON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "0.91",
+      "id": "619"
+  },
+  {
+      "name": "ALFASILIN 500 MG 16 KAPSUL",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "2.81",
+      "id": "620"
+  },
+  {
+      "name": "ALFAZAN 600 MG 30 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "18.30",
+      "id": "621"
+  },
+  {
+      "name": "ALFOXIL 1 GR 1 FLAKON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.91",
+      "id": "622"
+  },
+  {
+      "name": "ALFOXIL 1 GR 15 TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "1.82",
+      "id": "623"
+  },
+  {
+      "name": "ALFOXIL 1 GR 16 TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "1.95",
+      "id": "624"
+  },
+  {
+      "name": "ALFOXIL 1 GR 16 TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.95",
+      "id": "625"
+  },
+  {
+      "name": "ALFOXIL 125 MG 100 ML SUSPANSIYON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.24",
+      "id": "626"
+  },
+  {
+      "name": "ALFOXIL 250 MG 1 FLAKON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.11",
+      "id": "627"
+  },
+  {
+      "name": "ALFOXIL 500 MG 1 FLAKON",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "1.34",
+      "id": "628"
+  },
+  {
+      "name": "ALFOXIL 500 MG 16 TABLET",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "0.97",
+      "id": "629"
+  },
+  {
+      "name": "ALFOXIL 500 MG 16 TABLET",
+      "brand": "ACTAVİS İLAÇLARI A.Ş.",
+      "price": "0.97",
+      "id": "630"
+  },
+  {
+      "name": "ALFOXIL FORTE 250 MG/ 5 ML ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (100 ML)",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "1.79",
+      "id": "631"
+  },
+  {
+      "name": "ALFUTU 10 MG UZATILMIS SALIMLI 30 TABLET",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.29",
+      "id": "632"
+  },
+  {
+      "name": "ALGESAL %10 MERHEM (40 G)",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "1.84",
+      "id": "633"
+  },
+  {
+      "name": "ALGESAL SURACTIVE %10+ %1 MERHEM (40 G)",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "3.79",
+      "id": "634"
+  },
+  {
+      "name": "ALGOPET 100 MG 15 FILM KAPLI TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.46",
+      "id": "635"
+  },
+  {
+      "name": "ALGOPET SR 200 MG MIKROPELLET 16 KAPSUL",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "5.02",
+      "id": "636"
+  },
+  {
+      "name": "ALIENTO 10 MG 28 FILM TABLET",
+      "brand": "GENVEON İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.41",
+      "id": "637"
+  },
+  {
+      "name": "ALIENTO 5 MG 28 CIGNEME TABLETI",
+      "brand": "GENVEON İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.41",
+      "id": "638"
+  },
+  {
+      "name": "ALIMTA 500 MG INF. COZ. ICIN TOZ ICEREN 1 FLAKON",
+      "brand": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+      "price": "1029.00",
+      "id": "639"
+  },
+  {
+      "name": "ALIOS 10 MG FILM TABLET (100 ADET)",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "40.75",
+      "id": "640"
+  },
+  {
+      "name": "ALIPZA 1 MG FILM 30 TABLET",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "12.11",
+      "id": "641"
+  },
+  {
+      "name": "ALIPZA 2 MG FILM TABLET",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "20.68",
+      "id": "642"
+  },
+  {
+      "name": "ALIPZA 4 MG FILM TABLET",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "29.50",
+      "id": "643"
+  },
+  {
+      "name": "ALJIL 150 MG/300 MG/50 MG TABLET (20 TABLET)",
+      "brand": "RECORDATİ İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "1.01",
+      "id": "644"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 108 DEVAM (BETULA)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "645"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 197 DEVAM (3-TREES)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "646"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 225 DEVAM (PHLEUM)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "187.76",
+      "id": "647"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 402 DEVAM (ALTERNARIA)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "164.78",
+      "id": "648"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 503 DEVAM (D.PTERONYSSINUS)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "230.65",
+      "id": "649"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 510 DEVAM (DERMATOPHAGOIDES MIX)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "650"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 552 DEVAM (HORSE)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "272.48",
+      "id": "651"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 553 DEVAM (DOG)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "266.64",
+      "id": "652"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 555 DEVAM (CAT)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "272.48",
+      "id": "653"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 801 DEVAM (5-GRASSES)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "297.63",
+      "id": "654"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 801 DEVAM (6-GRASSES+RYE)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "122.33",
+      "id": "655"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 801 DEVAM (APIS)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "287.67",
+      "id": "656"
+  },
+  {
+      "name": "ALK ALUTARD 1X5 ML 802 DEVAM (VESPULA)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "289.27",
+      "id": "657"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 108 BASLANGIC (6-GRASSES+RYE)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "129.58",
+      "id": "658"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 108 BASLANGIC (BETULA)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "659"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 197 BASLANGIC (3-TREES)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "129.58",
+      "id": "660"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 225 BASLANGIC",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "661"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 503 BASLANGIC (PTERONYSSINUS)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "292.51",
+      "id": "662"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 510 BASLANGIC (DERMATOPHAGOIDES MIX)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "240.00",
+      "id": "663"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 553 BASLANGIC (DOG)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "307.69",
+      "id": "664"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 555 BASLANGIC (CAT)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "313.56",
+      "id": "665"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 801 BASLANGIC (APIS)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "332.61",
+      "id": "666"
+  },
+  {
+      "name": "ALK ALUTARD 4X5 ML 802 BASLANGIC (VESPULA)",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "333.22",
+      "id": "667"
+  },
+  {
+      "name": "ALKA-SELTZER 324 MG 10 TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "3.11",
+      "id": "668"
+  },
+  {
+      "name": "ALKERAN 2 MG FILM KAPLI TABLET",
+      "brand": "VLD DANIŞMANLIK TIBBİ ÜRÜNLER VE TANITIM HİZMETLERİ A. Ş.",
+      "price": "10.52",
+      "id": "669"
+  },
+  {
+      "name": "ALK-SPECIFIC(BASLANGIC) 1:1 GR/ML 4X4 ML",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "222.80",
+      "id": "670"
+  },
+  {
+      "name": "ALK-SPECIFIC(DEVAM) 1:1 GR/ML 1X4 ML",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "225.72",
+      "id": "671"
+  },
+  {
+      "name": "ALLEGRA 120 MG 20 FILM TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "4.24",
+      "id": "672"
+  },
+  {
+      "name": "ALLEGRA 180 MG 20 FILM TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "2.06",
+      "id": "673"
+  },
+  {
+      "name": "ALLENIK 20 MG 2 ML 100 AMPUL",
+      "brand": "GALEN İLAÇ SAN.VE TİC.A.Ş",
+      "price": "16.06",
+      "id": "674"
+  },
+  {
+      "name": "ALLERGO COMOD %2 15 ML NAZAL SPREY",
+      "brand": "BİEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.05",
+      "id": "675"
+  },
+  {
+      "name": "ALLERGO COMOD 10 ML GOZ DAMLASI",
+      "brand": "BİEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.31",
+      "id": "676"
+  },
+  {
+      "name": "ALLERGOCROM 10 ML GOZ DAMLASI",
+      "brand": "BİEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.39",
+      "id": "677"
+  },
+  {
+      "name": "ALLERGODIL %0,05 GOZ DAMLASI, COZELTI (6 ML)",
+      "brand": "MEDA PHARMA İLAÇ SANAYİ VE TİCARET LTD. ŞTİ.",
+      "price": "3.46",
+      "id": "678"
+  },
+  {
+      "name": "ALLERGODIL %0,1 BURUN SPREYI, COZELTI (10 ML) ",
+      "brand": "MEDA PHARMA İLAÇ SANAYİ VE TİCARET LTD. ŞTİ.",
+      "price": "4.99",
+      "id": "679"
+  },
+  {
+      "name": "ALLERGOVIT A+B(BASLANGIC)3 ML 2 FLK.",
+      "brand": "ALLERGO İLAÇ DIŞ TİC.A.Ş.",
+      "price": "367.00",
+      "id": "680"
+  },
+  {
+      "name": "ALLERGOVIT B(IDAME)3 ML 1 FLK.",
+      "brand": "ALLERGO İLAÇ DIŞ TİC.A.Ş.",
+      "price": "336.00",
+      "id": "681"
+  },
+  {
+      "name": "ALLERJIN 10 MG/4 ML 100 ML SURUP",
+      "brand": "GÜNSA,GÜNEY İLAÇ VE HAMMADDELER SANAYİ TİCARET A.Ş.",
+      "price": "0.84",
+      "id": "682"
+  },
+  {
+      "name": "ALLERSET 1 MG/1 ML SURUP (200ML)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "2.24",
+      "id": "683"
+  },
+  {
+      "name": "ALLERSET 10 MG FILM KAPLI TABLET (10 FILM KAPLI TABLET)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "2.60",
+      "id": "684"
+  },
+  {
+      "name": "ALLERSET 10 MG FILM KAPLI TABLET (20 FILM KAPLI TABLET)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "5.21",
+      "id": "685"
+  },
+  {
+      "name": "ALLERSET 10 MG/ML ORAL DAMLA,COZELTI (20ML)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "1.99",
+      "id": "686"
+  },
+  {
+      "name": "ALLES 600 MG 10 EFERVESAN TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.46",
+      "id": "687"
+  },
+  {
+      "name": "ALLES 600 MG 20 EFERVESAN TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "5.19",
+      "id": "688"
+  },
+  {
+      "name": "ALLOGUT 300 MG 50 TABLET",
+      "brand": "ATABAY İLAÇ FABRİKASI A.Ş.",
+      "price": "0.44",
+      "id": "689"
+  },
+  {
+      "name": "ALMENTA 10 MG 100 FILM TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "40.75",
+      "id": "690"
+  },
+  {
+      "name": "ALMENTA 10 MG 28 FILM KAPLI TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "12.66",
+      "id": "691"
+  },
+  {
+      "name": "ALMENTA 10 MG 50 FILM TABLET",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "22.61",
+      "id": "692"
+  },
+  {
+      "name": "ALMENTA 10 MG/G 100 G ORAL DAMLA",
+      "brand": "GENERİCA İLAÇ SAN. ve TİC. A.Ş.",
+      "price": "82.80",
+      "id": "693"
+  },
+  {
+      "name": "ALMIBA 1 G/5 ML IM/IV ENJEKSIYONLUK COZELTI (5 AMPUL)",
+      "brand": "GMG GRAND MEDİCAL İLAÇLARI LTD. ŞTİ.",
+      "price": "3.46",
+      "id": "694"
+  },
+  {
+      "name": "ALOCORT M % 0.1 EMULSIYON",
+      "brand": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "5.85",
+      "id": "695"
+  },
+  {
+      "name": "ALOFIN 1 MG FILM KAPLI TABLET ( 28 FILM KAPLI TABLET)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "36.70",
+      "id": "696"
+  },
+  {
+      "name": "ALOMIDE %0,1 STERIL GOZ DAMLASI",
+      "brand": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "3.46",
+      "id": "697"
+  },
+  {
+      "name": "ALOND 150 MG 56 KAPSUL",
+      "brand": "WARNER LAMBERT İLAÇ",
+      "price": "12.62",
+      "id": "698"
+  },
+  {
+      "name": "ALOND 25 MG 56 KAPSUL",
+      "brand": "WARNER LAMBERT İLAÇ",
+      "price": "3.13",
+      "id": "699"
+  },
+  {
+      "name": "ALOND 300 MG 56 KAPSUL",
+      "brand": "WARNER LAMBERT İLAÇ",
+      "price": "20.16",
+      "id": "700"
+  },
+  {
+      "name": "ALOND 75 MG 14 KAPSUL",
+      "brand": "WARNER LAMBERT İLAÇ",
+      "price": "4.48",
+      "id": "701"
+  },
+  {
+      "name": "ALOPEXY T %5 DERI SPREYI 60 ML",
+      "brand": "PIERRE FABRE DERMO KOZMETİK LTD.ŞTİ.",
+      "price": "20.33",
+      "id": "702"
+  },
+  {
+      "name": "ALORES 2,5 MG/5 ML 150 ML SURUP",
+      "brand": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+      "price": "2.28",
+      "id": "703"
+  },
+  {
+      "name": "ALOXI 250 MCG/5 ML ENJEKSIYONLUK SOL. 1 FLAKON",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "27.28",
+      "id": "704"
+  },
+  {
+      "name": "ALPHA D3 0.25 MCG 100 KAPSUL",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "10.66",
+      "id": "705"
+  },
+  {
+      "name": "ALPHA D3 0.25 MCG 50 KAPSUL",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "9.43",
+      "id": "706"
+  },
+  {
+      "name": "ALPHA D3 1 MCG 50 KAPSUL",
+      "brand": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+      "price": "10.85",
+      "id": "707"
+  },
+  {
+      "name": "ALPHAGAN-P %0,15 5 ML",
+      "brand": "ALLERGAN İLAÇLARI TİC. A.Ş.",
+      "price": "138.92",
+      "id": "708"
+  },
+  {
+      "name": "ALPROS 20 MCG/ML INF. ICIN KONSANTRE COZ. ICEREN 1 MLx5 AMPUL",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "160.00",
+      "id": "709"
+  },
+  {
+      "name": "ALPROS 500 MCG/ML INF. ICIN KONSANTRE COZ. ICEREN 1 MLx5 AMPUL",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "223.86",
+      "id": "710"
+  },
+  {
+      "name": "ALPROSTASIN 20 MCG/ML INF. ICIN KONSANTRE COZ. ICEREN 1 MLx5 AMPUL",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "160.00",
+      "id": "711"
+  },
+  {
+      "name": "ALPROSTASIN 500 MCG/ML INF. ICIN KONSANTRE COZ. ICEREN 1 MLx5 AMPUL",
+      "brand": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
+      "price": "223.86",
+      "id": "712"
+  },
+  {
+      "name": "ALRINAST 2,5 MG/5 ML SURUP 150 ML",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.28",
+      "id": "713"
+  },
+  {
+      "name": "ALRINAST 5 MG 20 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.53",
+      "id": "714"
+  },
+  {
+      "name": "ALTHERA 450 G",
+      "brand": "NESTLE TÜRKİYE GIDA SANAYİ A.Ş.",
+      "price": "19.00",
+      "id": "715"
+  },
+  {
+      "name": "ALTIGMIN 2 MG/ML ORAL COZELTI 120 ML",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "41.12",
+      "id": "716"
+  },
+  {
+      "name": "ALTIZEM-SR 120 MG 30 KAPSUL",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "4.68",
+      "id": "717"
+  },
+  {
+      "name": "ALTIZEM-SR 60 MG 30 KAPSUL",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.64",
+      "id": "718"
+  },
+  {
+      "name": "ALTUZAN ROCHE 100MG/4ML KONS.INF.COZ.ICEREN 1 FLAKON",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "229.53",
+      "id": "719"
+  },
+  {
+      "name": "ALTUZAN ROCHE 400MG/16ML KONS.INF.COZ.ICEREN 1 FLAKON",
+      "brand": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
+      "price": "858.06",
+      "id": "720"
+  },
+  {
+      "name": "ALUNBRIG 180 MG FILM KAPLI TABLET (28 TABLET)",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "3714.76",
+      "id": "721"
+  },
+  {
+      "name": "ALUNBRIG 30 MG FILM KAPLI TABLET (28 TABLET)",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "734.48",
+      "id": "722"
+  },
+  {
+      "name": "ALUNBRIG 90 MG FILM KAPLI TABLET (28 TABLET)",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "2203.43",
+      "id": "723"
+  },
+  {
+      "name": "ALUNBRIG 90 MG VE 180 MG FILM KAPLI TABLET TEDAVIYE BASLANGIC PAKETI (90 MG 7 TAB +180 MG 21 TAB)",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "3714.76",
+      "id": "724"
+  },
+  {
+      "name": "ALUTARD 1X5 ML DEVAM",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "180.95",
+      "id": "725"
+  },
+  {
+      "name": "ALUTARD 4X5 ML BASLANGIC",
+      "brand": "ALK İLAÇ VE ALERJİ ÜRÜNLERİ TİCARET ANONİM ŞİRKETİ",
+      "price": "231.82",
+      "id": "726"
+  },
+  {
+      "name": "ALVASTIN 10 MG 30 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "3.85",
+      "id": "727"
+  },
+  {
+      "name": "ALVASTIN 10 MG 90 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "13.50",
+      "id": "728"
+  },
+  {
+      "name": "ALVASTIN 20 MG 30 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "6.36",
+      "id": "729"
+  },
+  {
+      "name": "ALVASTIN 20 MG 90 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "13.50",
+      "id": "730"
+  },
+  {
+      "name": "ALVASTIN 40 MG 30 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "7.59",
+      "id": "731"
+  },
+  {
+      "name": "ALVASTIN 40 MG 90 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "13.50",
+      "id": "732"
+  },
+  {
+      "name": "ALVASTIN 80 MG 30 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "9.65",
+      "id": "733"
+  },
+  {
+      "name": "ALVASTIN 80 MG 90 FILM TABLET",
+      "brand": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+      "price": "13.50",
+      "id": "734"
+  },
+  {
+      "name": "ALVESCO 80 MCG COZELTI ICEREN INHALASYON AERSOLU 60 DOZ",
+      "brand": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
+      "price": "10.55",
+      "id": "735"
+  },
+  {
+      "name": "ALYSE 150 MG 56 KAPSUL",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "11.78",
+      "id": "736"
+  },
+  {
+      "name": "ALYSE 25 MG 56 KAPSUL",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "3.13",
+      "id": "737"
+  },
+  {
+      "name": "ALYSE 300 MG 56 KAPSUL",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "20.16",
+      "id": "738"
+  },
+  {
+      "name": "ALYSE 75 MG 14 KAPSUL",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "4.48",
+      "id": "739"
+  },
+  {
+      "name": "ALYSE 75 MG 56 KAPSUL",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "17.92",
+      "id": "740"
+  },
+  {
+      "name": "ALZAMED 10 MG 28 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "21.92",
+      "id": "741"
+  },
+  {
+      "name": "ALZAMED 5 MG 14 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.57",
+      "id": "742"
+  },
+  {
+      "name": "ALZAMED 5 MG 28 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.15",
+      "id": "743"
+  },
+  {
+      "name": "ALZANCER 10 MG 28 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "21.74",
+      "id": "744"
+  },
+  {
+      "name": "ALZANCER 5 MG 14 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.57",
+      "id": "745"
+  },
+  {
+      "name": "ALZANCER 5 MG 28 FILM TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.15",
+      "id": "746"
+  },
+  {
+      "name": "ALZANCER EASYTAB 10 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "22.87",
+      "id": "747"
+  },
+  {
+      "name": "ALZANCER EASYTAB 10 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "22.87",
+      "id": "748"
+  },
+  {
+      "name": "ALZANCER EASYTAB 5 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "11.43",
+      "id": "749"
+  },
+  {
+      "name": "ALZANCER EASYTAB 5 MG 28 AGIZDA DAGILAN TABLET",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "11.43",
+      "id": "750"
+  },
+  {
+      "name": "ALZANT 10 MG FILM KAPLI TABLET (100 TABLET)",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "40.75",
+      "id": "751"
+  },
+  {
+      "name": "ALZANT 10 MG FILM KAPLI TABLET (30 TABLET)",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "13.56",
+      "id": "752"
+  },
+  {
+      "name": "ALZANT 10 MG FILM KAPLI TABLET (50 TABLET)",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "22.61",
+      "id": "753"
+  },
+  {
+      "name": "ALZANT 10 MG/G 100 G ORAL DAMLA",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "82.80",
+      "id": "754"
+  },
+  {
+      "name": "ALZEPIL 5 MG FILM KAPLI TABLET (14 TABLET)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "7.57",
+      "id": "755"
+  },
+  {
+      "name": "ALZER 10 MG 100 FILM TABLET",
+      "brand": "TRİOZER İLAÇ KİM. KOZMETİK SAĞ. HİZM. SAN. VE  TİC. LTD. ŞTİ.",
+      "price": "40.75",
+      "id": "756"
+  },
+  {
+      "name": "ALZIA 10 MG 100 FILM TABLET",
+      "brand": "NOBEL SAĞLIK ÜRÜNLERİ LTD ŞTİ",
+      "price": "40.75",
+      "id": "757"
+  },
+  {
+      "name": "ALZIA 10 MG 50 FILM TABLET",
+      "brand": "NOBEL SAĞLIK ÜRÜNLERİ LTD ŞTİ",
+      "price": "22.61",
+      "id": "758"
+  },
+  {
+      "name": "ALZIA 20 MG 84 FILM TABLET",
+      "brand": "NOBEL SAĞLIK ÜRÜNLERİ LTD ŞTİ",
+      "price": "139.10",
+      "id": "759"
+  },
+  {
+      "name": "ALZIL 10 MG 28 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "21.74",
+      "id": "760"
+  },
+  {
+      "name": "ALZIL 5 MG 14 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "7.57",
+      "id": "761"
+  },
+  {
+      "name": "ALZIL 5 MG 28 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "15.15",
+      "id": "762"
+  },
+  {
+      "name": "ALZMEX 10 MG FILM KAPLI TABLET (100 TABLET)",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "40.75",
+      "id": "763"
+  },
+  {
+      "name": "ALZMEX 10 MG FILM KAPLI TABLET (30 TABLET)\r\n",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "13.56",
+      "id": "764"
+  },
+  {
+      "name": "ALZMEX 10 MG/GR ORAL DAMLA 100 GR",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "82.80",
+      "id": "765"
+  },
+  {
+      "name": "AMARYL 1 MG 30 TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "0.82",
+      "id": "766"
+  },
+  {
+      "name": "AMARYL 2 MG 30 TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "1.23",
+      "id": "767"
+  },
+  {
+      "name": "AMARYL 3 MG 30 TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "1.81",
+      "id": "768"
+  },
+  {
+      "name": "AMARYL 4 MG 30 TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "1.81",
+      "id": "769"
+  },
+  {
+      "name": "AMARYL 6 MG 30 TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "3.43",
+      "id": "770"
+  },
+  {
+      "name": "AMARYL M 2 MG/1000 MG 30 FILM KAPLI TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "15.00",
+      "id": "771"
+  },
+  {
+      "name": "AMARYL M 4 MG/1000 MG 30 FILM KAPLI TABLET",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "21.00",
+      "id": "772"
+  },
+  {
+      "name": "AMBISOME 50 MG 1 FLAKON",
+      "brand": "GİLEAD SCİENCES İLAÇ TİCARET LTD. ŞTİ",
+      "price": "94.16",
+      "id": "773"
+  },
+  {
+      "name": "AMBISOME 50 MG IV INFUZYON ICIN LIYOFILIZE TOZ ICEREN 10 FLAKON",
+      "brand": "GİLEAD SCİENCES İLAÇ TİCARET LTD. ŞTİ",
+      "price": "941.60",
+      "id": "774"
+  },
+  {
+      "name": "AMBREKS 15 MG / 5 ML 100 ML PEDIATRIK SURUP",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.84",
+      "id": "775"
+  },
+  {
+      "name": "AMBREKS 30 MG / 5 ML 150 ML SURUP",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.47",
+      "id": "776"
+  },
+  {
+      "name": "AMETIK 1.5G / 15 ML DAMLA, COZELTI",
+      "brand": "KURTSAN İLAÇLARI A.Ş.",
+      "price": "2.62",
+      "id": "777"
+  },
+  {
+      "name": "AMEXOT 500 MG/2ML IM/IV ENJEKSIYONLUK COZELTI (1 AMPUL)",
+      "brand": "MS PHARMA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "price": "1.62",
+      "id": "778"
+  },
+  {
+      "name": "AMGEVITA 20 MG/0,4 ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR ENJEKTOR (1 ADET)",
+      "brand": "AMGEN İLAÇ TİCARET LİMİTED ŞİRKETİ",
+      "price": "119.23",
+      "id": "779"
+  },
+  {
+      "name": "AMGEVITA 40 MG/0,8 ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR ENJEKTOR (2 ADET)",
+      "brand": "AMGEN İLAÇ TİCARET LİMİTED ŞİRKETİ",
+      "price": "430.35",
+      "id": "780"
+  },
+  {
+      "name": "AMGEVITA 40 MG/0,8 ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR KALEM (2 ADET)",
+      "brand": "AMGEN İLAÇ TİCARET LİMİTED ŞİRKETİ",
+      "price": "430.35",
+      "id": "781"
+  },
+  {
+      "name": "AMIDOVIN 150 MG/3 ML IV 6 AMPUL",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "2.27",
+      "id": "782"
+  },
+  {
+      "name": "AMIJEKSIN 100 MG/2 ML IM/IV ENJ. SOL.ICEREN 1 AMPUL",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "0.93",
+      "id": "783"
+  },
+  {
+      "name": "AMIJEKSIN 100 MG/2 ML IM/IV ENJEKSIYONLUK COZELTI (100 AMPUL)",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "93.60",
+      "id": "784"
+  },
+  {
+      "name": "AMIJEKSIN 500 MG/2 ML IM/IV ENJ. SOL.ICEREN 1 AMPUL",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "3.06",
+      "id": "785"
+  },
+  {
+      "name": "AMIJEKSIN 500 MG/2 ML IM/IV ENJEKSIYONLUK COZELTI (100 AMPUL)",
+      "brand": "TÜM - EKİP İLAÇ A.Ş",
+      "price": "306.00",
+      "id": "786"
+  },
+  {
+      "name": "AMIKAVER 100 MG 2ML X 1 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "0.51",
+      "id": "787"
+  },
+  {
+      "name": "AMIKAVER 500 MG 1 AMPUL",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.31",
+      "id": "788"
+  },
+  {
+      "name": "AMIKAVER 500 MG/2 ML IM/IV ENJEKSIYONLUK COZELTI (10 AMPUL) ",
+      "brand": "OSEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "30.60",
+      "id": "789"
+  },
+  {
+      "name": "AMIKETEM 100 MG/2 ML ENJEKSIYONLUK COZELTI",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "0.58",
+      "id": "790"
+  },
+  {
+      "name": "AMIKETEM 500 MG/2 ML ENJEKSIYONLUK COZELTI",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "3.04",
+      "id": "791"
+  },
+  {
+      "name": "AMIKOZIT 100 MG 1 FLAKON",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "1.15",
+      "id": "792"
+  },
+  {
+      "name": "AMIKOZIT 500 MG IM/IV ENJ. COZ. ICEREN FLAKON, 1 FLAKON",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "1.97",
+      "id": "793"
+  },
+  {
+      "name": "AMINESS-N FILM KAPLI TABLET (300 TABLET)",
+      "brand": "MEDA PHARMA İLAÇ SANAYİ VE TİCARET LTD. ŞTİ.",
+      "price": "128.19",
+      "id": "794"
+  },
+  {
+      "name": "AMINOPLAZMAL HEPA %10",
+      "brand": "B.BRAUN MEDİKAL DIŞ TİCARET A.Ş.",
+      "price": "19.98",
+      "id": "795"
+  },
+  {
+      "name": "AMLIPIN 10/10 MG 30 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "4.43",
+      "id": "796"
+  },
+  {
+      "name": "AMLIPIN 5/10 MG 30 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.24",
+      "id": "797"
+  },
+  {
+      "name": "AMLODIS 10 MG 20 TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "8.95",
+      "id": "798"
+  },
+  {
+      "name": "AMLODIS 5 MG 20 TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "3.58",
+      "id": "799"
+  },
+  {
+      "name": "AMLOHEX 10 MG 20 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.25",
+      "id": "800"
+  },
+  {
+      "name": "AMLOHEX 10 MG 30 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.88",
+      "id": "801"
+  },
+  {
+      "name": "AMLOHEX 5 MG 20 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.76",
+      "id": "802"
+  },
+  {
+      "name": "AMLOHEX 5 MG 30 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.65",
+      "id": "803"
+  },
+  {
+      "name": "AMLOKARD 10 MG 30 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "13.43",
+      "id": "804"
+  },
+  {
+      "name": "AMLOKARD 10 MG 90 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "11.02",
+      "id": "805"
+  },
+  {
+      "name": "AMLOKARD 5 MG 30 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.58",
+      "id": "806"
+  },
+  {
+      "name": "AMLOKARD 5 MG TABLET (90 TABLET)",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.40",
+      "id": "807"
+  },
+  {
+      "name": "AMLONEB 10MG/10MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "9.69",
+      "id": "808"
+  },
+  {
+      "name": "AMLONEB 10MG/2,5MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "13.62",
+      "id": "809"
+  },
+  {
+      "name": "AMLONEB 10MG/5MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "5.59",
+      "id": "810"
+  },
+  {
+      "name": "AMLONEB 5MG/10MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "8.11",
+      "id": "811"
+  },
+  {
+      "name": "AMLONEB 5MG/2,5MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "2.54",
+      "id": "812"
+  },
+  {
+      "name": "AMLONEB 5MG/5MG 30 TABLET",
+      "brand": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+      "price": "18.29",
+      "id": "813"
+  },
+  {
+      "name": "AMLOPER 4/5 MG 30 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.76",
+      "id": "814"
+  },
+  {
+      "name": "AMLOPER 8/10 MG 30 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "9.60",
+      "id": "815"
+  },
+  {
+      "name": "AMLOPER 8/5 MG 30 FILM KAPLI TABLET",
+      "brand": "CELTİS İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.70",
+      "id": "816"
+  },
+  {
+      "name": "AMLOVAS 10 MG 20 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "6.40",
+      "id": "817"
+  },
+  {
+      "name": "AMLOVAS 10 MG 30 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "5.37",
+      "id": "818"
+  },
+  {
+      "name": "AMLOVAS 10 MG 90 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "11.02",
+      "id": "819"
+  },
+  {
+      "name": "AMLOVAS 5 MG 20 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "2.38",
+      "id": "820"
+  },
+  {
+      "name": "AMLOVAS 5 MG 30 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "5.37",
+      "id": "821"
+  },
+  {
+      "name": "AMLOVAS 5 MG 90 TABLET",
+      "brand": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "7.40",
+      "id": "822"
+  },
+  {
+      "name": "AMOKLAVIN 1,2 G IV ENJEKSIYONLUK / INFUZYONLUK COZELTI HAZIRLAMAK ICIN TOZ VE COZUCU (1 FLAKON)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.43",
+      "id": "823"
+  },
+  {
+      "name": "AMOKLAVIN BID 1000 MG 10 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.42",
+      "id": "824"
+  },
+  {
+      "name": "AMOKLAVIN BID 1000 MG 14 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.46",
+      "id": "825"
+  },
+  {
+      "name": "AMOKLAVIN BID 200/28,5 MG ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (100 ML)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.46",
+      "id": "826"
+  },
+  {
+      "name": "AMOKLAVIN BID 200/28,5 MG ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (70 ML)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.10",
+      "id": "827"
+  },
+  {
+      "name": "AMOKLAVIN BID 400/57 MG FORTE 140 ML ORAL SUS. HAZIRLAMAK ICIN KURU TOZ",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.87",
+      "id": "828"
+  },
+  {
+      "name": "AMOKLAVIN BID 400/57 MG FORTE ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (100 ML)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.46",
+      "id": "829"
+  },
+  {
+      "name": "AMOKLAVIN BID 400/57 MG FORTE ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (35 ML)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "2.16",
+      "id": "830"
+  },
+  {
+      "name": "AMOKLAVIN BID 400/57 MG FORTE ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ (70 ML)",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.46",
+      "id": "831"
+  },
+  {
+      "name": "AMOKLAVIN BID 625 MG 10 TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "2.91",
+      "id": "832"
+  },
+  {
+      "name": "AMOKLAVIN BID 625 MG 14 FILM TABLET",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "3.35",
+      "id": "833"
+  },
+  {
+      "name": "AMOKLAVIN ES 600/42,9 MG ORAL SUSPANSIYON ICIN KURU TOZ 100 ML",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "10.52",
+      "id": "834"
+  },
+  {
+      "name": "AMOKLAVIN ES 600/42,9 MG ORAL SUSPANSIYON ICIN KURU TOZ 150 ML",
+      "brand": "DEVA HOLDİNG A.Ş.",
+      "price": "15.77",
+      "id": "835"
+  },
+  {
+      "name": "AMOKSILAV 1000 MG QUICKTAB AGIZDA DAGILAN 10 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.78",
+      "id": "836"
+  },
+  {
+      "name": "AMOKSILAV 625 MG QUICKTAB AGIZDA DAGILAN 10 TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.57",
+      "id": "837"
+  },
+  {
+      "name": "AMOKSILAV BID 1000 MG 10 FILM TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.37",
+      "id": "838"
+  },
+  {
+      "name": "AMOKSILAV BID 625 MG 10 FILM TABLET",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.91",
+      "id": "839"
+  },
+  {
+      "name": "AMOKSILAV BID FORT SUSPANSIYON HAZIRLAMAK ICIN TOZ",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.92",
+      "id": "840"
+  },
+  {
+      "name": "AMOKSILAV BID PEDIATRIK SUSPANSIYON HAZIRLAMAK ICIN TOZ",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.22",
+      "id": "841"
+  },
+  {
+      "name": "AMOKSINA 125 MG 80 ML SUSPANSIYON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.13",
+      "id": "842"
+  },
+  {
+      "name": "AMOKSINA 250 MG 80 ML SUSPANSIYON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.04",
+      "id": "843"
+  },
+  {
+      "name": "AMPAHO 10 MG 30 FILM KAPLI TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "1783.56",
+      "id": "844"
+  },
+  {
+      "name": "AMPAHO 5 MG 30 FILM KAPLI TABLET",
+      "brand": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+      "price": "1713.78",
+      "id": "845"
+  },
+  {
+      "name": "AMPISID 250 MG 70 ML SUSPANSIYON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.59",
+      "id": "846"
+  },
+  {
+      "name": "AMPISID 375 MG 10 TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "3.46",
+      "id": "847"
+  },
+  {
+      "name": "AMPISID 750 MG 10 FILM TABLET",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "8.20",
+      "id": "848"
+  },
+  {
+      "name": "AMPISID IM 1 GR 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.84",
+      "id": "849"
+  },
+  {
+      "name": "AMPISID IM 250 MG 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "0.83",
+      "id": "850"
+  },
+  {
+      "name": "AMPISID IM 500 MG 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.29",
+      "id": "851"
+  },
+  {
+      "name": "AMPISID IV. 1 GR 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.58",
+      "id": "852"
+  },
+  {
+      "name": "AMPISID IV. 500 MG 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.29",
+      "id": "853"
+  },
+  {
+      "name": "AMPISINA 1 GR 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.09",
+      "id": "854"
+  },
+  {
+      "name": "AMPISINA 125 MG 80 ML SUSPANSIYON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.27",
+      "id": "855"
+  },
+  {
+      "name": "AMPISINA 250 MG 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "0.87",
+      "id": "856"
+  },
+  {
+      "name": "AMPISINA 250 MG 80 ML SUSPANSIYON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.89",
+      "id": "857"
+  },
+  {
+      "name": "AMPISINA 500 MG 1 FLAKON",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "1.10",
+      "id": "858"
+  },
+  {
+      "name": "AMVASTAN 10 MG 30 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "11.64",
+      "id": "859"
+  },
+  {
+      "name": "AMVASTAN 20 MG 30 FILM KAPLI TABLET",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "16.22",
+      "id": "860"
+  },
+  {
+      "name": "ANAFRANIL 10 MG 30 KAPLI TABLET",
+      "brand": "TEOFARMA İSTANBUL TIBBİ MADDELER TİCARET LİMİTED ŞİRKETİ",
+      "price": "2.18",
+      "id": "861"
+  },
+  {
+      "name": "ANAFRANIL 25 MG 30 KAPLI TABLET",
+      "brand": "TEOFARMA İSTANBUL TIBBİ MADDELER TİCARET LİMİTED ŞİRKETİ",
+      "price": "4.27",
+      "id": "862"
+  },
+  {
+      "name": "ANAFRANIL SR 75 MG UZATILMIS SALIMLI BOLUNEBILIR 20 TABLET",
+      "brand": "TEOFARMA İSTANBUL TIBBİ MADDELER TİCARET LİMİTED ŞİRKETİ",
+      "price": "7.88",
+      "id": "863"
+  },
+  {
+      "name": "ANAPOLON 50 MG 20 TABLET",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "14.95",
+      "id": "864"
+  },
+  {
+      "name": "ANAZOL 1 MG 28 FILM TABLET",
+      "brand": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+      "price": "19.06",
+      "id": "865"
+  },
+  {
+      "name": "ANBINEX 1000 IU IV INFUZYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "DEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "312.19",
+      "id": "866"
+  },
+  {
+      "name": "ANBINEX 500 IU IV INFUZYON ICIN LIYOFILIZE TOZ ICEREN FLAKON",
+      "brand": "DEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "156.57",
+      "id": "867"
+  },
+  {
+      "name": "ANDANTE 10 MG 28 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.39",
+      "id": "868"
+  },
+  {
+      "name": "ANDANTE 70 MG 12 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "19.17",
+      "id": "869"
+  },
+  {
+      "name": "ANDANTE 70 MG 4 TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.39",
+      "id": "870"
+  },
+  {
+      "name": "ANDAZOL 200 MG 2 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.21",
+      "id": "871"
+  },
+  {
+      "name": "ANDAZOL 200 MG 40 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "44.20",
+      "id": "872"
+  },
+  {
+      "name": "ANDAZOL 200 MG 6 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "6.63",
+      "id": "873"
+  },
+  {
+      "name": "ANDAZOL 200 MG/10 ML SUSPANSIYON, 20 ML",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.42",
+      "id": "874"
+  },
+  {
+      "name": "ANDAZOL 200 MG/10 ML SUSPANSIYON, 60 ML",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "7.26",
+      "id": "875"
+  },
+  {
+      "name": "ANDAZOL 400 MG 1 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.21",
+      "id": "876"
+  },
+  {
+      "name": "ANDAZOL 400 MG 3 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "4.10",
+      "id": "877"
+  },
+  {
+      "name": "ANDAZOL 400 MG 60 FILM TABLET",
+      "brand": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "59.42",
+      "id": "878"
+  },
+  {
+      "name": "ANDOLOR 1000 MG/2 ML IM/IV ENJEKSIYONLUK COZELTI",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "9.08",
+      "id": "879"
+  },
+  {
+      "name": "ANDOLOR 500 MG TABLET (20 TABLET)",
+      "brand": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
+      "price": "1.75",
+      "id": "880"
+  },
+  {
+      "name": "ANDOREX %0.15+%0.12 GARGARA (200 ML)",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.48",
+      "id": "881"
+  },
+  {
+      "name": "ANDOREX %0.15+%0.12 SPREY, COZELTI (30 ML)",
+      "brand": "PHARMACTİVE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.58",
+      "id": "882"
+  },
+  {
+      "name": "ANDRAXAN 250 MG 30 TABLET",
+      "brand": "ONKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "14.22",
+      "id": "883"
+  },
+  {
+      "name": "ANDROCUR 50 MG 50 TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "16.97",
+      "id": "884"
+  },
+  {
+      "name": "ANDROCUR-100 30 TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "30.30",
+      "id": "885"
+  },
+  {
+      "name": "ANDROVIUM %2 TOPIKAL COZELTI",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "18.35",
+      "id": "886"
+  },
+  {
+      "name": "ANDROVIUM %2 TOPIKAL KOPUK (90 G)",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "20.97",
+      "id": "887"
+  },
+  {
+      "name": "ANDROVIUM %5 TOPIKAL COZELTI",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "26.21",
+      "id": "888"
+  },
+  {
+      "name": "ANDROVIUM %5 TOPIKAL KOPUK (90 G)",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "28.83",
+      "id": "889"
+  },
+  {
+      "name": "ANESED-R 0.5 MG 5 ML I.V. ENJEKSIYON ICIN COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "30.91",
+      "id": "890"
+  },
+  {
+      "name": "ANESED-R 0.5 MG 5 ML I.V. ENJEKSIYON ICIN COZELTI ICEREN FLAKON (5 FLAKON)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "30.91",
+      "id": "891"
+  },
+  {
+      "name": "ANESED-R 1 MG 10 ML I.V. ENJEKSIYON ICIN COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "74.82",
+      "id": "892"
+  },
+  {
+      "name": "ANESED-R 1 MG 10 ML I.V. ENJEKSIYON ICIN COZELTI ICEREN FLAKON (5 FLAKON)",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "74.82",
+      "id": "893"
+  },
+  {
+      "name": "ANESTOL %5 MERHEM",
+      "brand": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.26",
+      "id": "894"
+  },
+  {
+      "name": "ANFEZINC - G SURUP",
+      "brand": "BERAT BERAN İLAÇ SAN. VE TİC. LTD. ŞTİ.",
+      "price": "3.45",
+      "id": "895"
+  },
+  {
+      "name": "ANGELIQ 28 FILM TABLET",
+      "brand": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+      "price": "8.83",
+      "id": "896"
+  },
+  {
+      "name": "ANGETIN 10 MG FILM TABLET (100 FILM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "40.75",
+      "id": "897"
+  },
+  {
+      "name": "ANGETIN 10 MG FILM TABLET (30 FILM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "13.56",
+      "id": "898"
+  },
+  {
+      "name": "ANGETIN 20 MG FILM TABLET (30 FILM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "24.45",
+      "id": "899"
+  },
+  {
+      "name": "ANIFUNGIN 100 MG I.V. INFUZYONLUK COZELTI HAZIRLAMAK ICIN LIYOFILIZE TOZ",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "294.64",
+      "id": "900"
+  },
+  {
+      "name": "ANJIOFLUX 250 LRU YUMUSAK KAPSUL",
+      "brand": "BİO-GEN İLAÇ SANAYİ TİC.LTD.ŞTİ.",
+      "price": "18.17",
+      "id": "901"
+  },
+  {
+      "name": "ANJIOFLUX 600 LRU 2 ML ENJEKTABL COZELTI ICEREN 10 AMPUL",
+      "brand": "BİO-GEN İLAÇ SANAYİ TİC.LTD.ŞTİ.",
+      "price": "12.72",
+      "id": "902"
+  },
+  {
+      "name": "ANKEP 100 MG 30 FILM KAPLI TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.38",
+      "id": "903"
+  },
+  {
+      "name": "ANKEP 200 MG 30 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "16.79",
+      "id": "904"
+  },
+  {
+      "name": "ANKEP 25 MG 30 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "9.06",
+      "id": "905"
+  },
+  {
+      "name": "ANKEP 300 MG 30 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "25.45",
+      "id": "906"
+  },
+  {
+      "name": "ANKEP 400 MG 30 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "33.93",
+      "id": "907"
+  },
+  {
+      "name": "ANKEP 50 MG FİLM TABLET (30 FİLM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "18.12",
+      "id": "908"
+  },
+  {
+      "name": "ANKO-L 1000 MG IV INFUZYONLUK COZELTI ICIN LIYOFILIZE TOZ ICEREN FLAKON (1 FLAKON)",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "13.60",
+      "id": "909"
+  },
+  {
+      "name": "ANKO-L 500 MG IV INFUZYONLUK COZELTI ICIN LIYOFILIZE TOZ ICEREN FLAKON (1 FLAKON)",
+      "brand": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "6.80",
+      "id": "910"
+  },
+  {
+      "name": "ANLEV 1000 MG FILM KAPLI TABLET (50 FILM KAPLI TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "41.90",
+      "id": "911"
+  },
+  {
+      "name": "ANLEV 250 MG FILM KAPLI TABLET (50 FILM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "10.48",
+      "id": "912"
+  },
+  {
+      "name": "ANLEV 500 MG FILM KAPLI TABLET (50 FILM TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "20.95",
+      "id": "913"
+  },
+  {
+      "name": "ANLEV 750 MG FILM KAPLI TABLET (50 FILM KAPLI TABLET)",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "31.42",
+      "id": "914"
+  },
+  {
+      "name": "ANORO ELLIPTA 62,5/25 MCG KULLANIMA HAZIR INHALASYON TOZU, 30 DOZ",
+      "brand": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+      "price": "36.43",
+      "id": "915"
+  },
+  {
+      "name": "A-NOX FORT 550 MG 10 TABLET",
+      "brand": "AROMA İLAÇ SAN.LTD.ŞTİ.",
+      "price": "1.90",
+      "id": "916"
+  },
+  {
+      "name": "A-NOX FORT 550 MG 20 TABLET",
+      "brand": "AROMA İLAÇ SAN.LTD.ŞTİ.",
+      "price": "3.46",
+      "id": "917"
+  },
+  {
+      "name": "ANPEKS MR 35 MG FILM KAPLI MODIFIYE SALIM TABLET",
+      "brand": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "5.29",
+      "id": "918"
+  },
+  {
+      "name": "ANRECTA %0,4 30 GR REKTAL MERHEM",
+      "brand": "CONSENTİS İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "price": "34.18",
+      "id": "919"
+  },
+  {
+      "name": "ANSIOX 0,5 MG 30 TABLET",
+      "brand": "PENSA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "1.89",
+      "id": "920"
+  },
+  {
+      "name": "ANSIOX 1 MG 50 TABLET",
+      "brand": "PENSA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.46",
+      "id": "921"
+  },
+  {
+      "name": "ANTABUSE 500 MG 25 TABLET",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "3.46",
+      "id": "922"
+  },
+  {
+      "name": "ANTARIN 100 MG/ 10 ML IV ENJEKSIYON COZELTISI ICEREN 10 FLAKON",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "53.52",
+      "id": "923"
+  },
+  {
+      "name": "ANTARIN 50 MG/ 5 ML IV ENJEKSIYON COZELTISI ICEREN 10 FLAKON",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "26.76",
+      "id": "924"
+  },
+  {
+      "name": "ANTAX 1000 MG 90 CIGNEME TABLETI",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "197.42",
+      "id": "925"
+  },
+  {
+      "name": "ANTAX 1000 MG ORAL TOZ ICEREN 90 SASE",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "197.42",
+      "id": "926"
+  },
+  {
+      "name": "ANTAX 500 MG 90 CIGNEME TABLETI",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "113.52",
+      "id": "927"
+  },
+  {
+      "name": "ANTAX 500 MG ORAL TOZ ICEREN 90 SASE",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "120.98",
+      "id": "928"
+  },
+  {
+      "name": "ANTAX 750 MG 90 CIGNEME TABLETI",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "164.79",
+      "id": "929"
+  },
+  {
+      "name": "ANTAX 750 MG ORAL TOZ ICEREN 90 SASE",
+      "brand": "NOBEL İLAÇ PAZARLAMA VE SANAYİİ LTD. ŞTİ.",
+      "price": "181.48",
+      "id": "930"
+  },
+  {
+      "name": "ANTEPSIN 1 G TABLET (60 TABLET)",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "5.21",
+      "id": "931"
+  },
+  {
+      "name": "ANTEPSIN 250 ML SUSPANSIYON",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "4.29",
+      "id": "932"
+  },
+  {
+      "name": "ANTHIX 10 MG 20 TABLET",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "3.85",
+      "id": "933"
+  },
+  {
+      "name": "ANTHIX 10 MG 30 TABLET",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "5.77",
+      "id": "934"
+  },
+  {
+      "name": "ANTI SKAB % 5 120 ML LOSYON",
+      "brand": "AVİXA İLAÇ SANAYİ VE TİC. LTD. ŞTİ.",
+      "price": "45.26",
+      "id": "935"
+  },
+  {
+      "name": "ANTI SKAB KREM % 5 30 GR KREM",
+      "brand": "AVİXA İLAÇ SANAYİ VE TİC. LTD. ŞTİ.",
+      "price": "2.98",
+      "id": "936"
+  },
+  {
+      "name": "ANTI-ASIDOZ 100 YUMUSAK JELATIN KAPSUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "52.27",
+      "id": "937"
+  },
+  {
+      "name": "ANTI-ASIDOZ 180 YUMUSAK JELATIN KAPSUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "62.73",
+      "id": "938"
+  },
+  {
+      "name": "ANTI-ASIDOZ 270 YUMUSAK JELATIN KAPSUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "94.09",
+      "id": "939"
+  },
+  {
+      "name": "ANTIBEKSIN 100 ML SURUP",
+      "brand": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+      "price": "1.92",
+      "id": "940"
+  },
+  {
+      "name": "ANTI-BIT 150 ML SAMPUAN",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "2.53",
+      "id": "941"
+  },
+  {
+      "name": "ANTI-BIT 150 ML SAMPUAN",
+      "brand": "ZENTİVA KİMYASAL ÜRÜNLER SAN. VE TİC. AŞ",
+      "price": "2.53",
+      "id": "942"
+  },
+  {
+      "name": "ANTI-D IMMUNGLOBULIN GRIFOLS 1500 IU ENJ. ICIN COZ. ICEREN KULLANIMA HAZIR ENJEKTOR",
+      "brand": "DEM İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "35.11",
+      "id": "943"
+  },
+  {
+      "name": "ANTIDOT 15 GR POMAD",
+      "brand": "SİSTAŞ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.84",
+      "id": "944"
+  },
+  {
+      "name": "ANTI-EM 50 MG TABLET (12 TABLET)",
+      "brand": "ADEKA İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "0.52",
+      "id": "945"
+  },
+  {
+      "name": "ANTI-FOSFAT AL 100 KAPSUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "25.33",
+      "id": "946"
+  },
+  {
+      "name": "ANTI-FOSFAT CA 700 MG 100 TABLET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "8.97",
+      "id": "947"
+  },
+  {
+      "name": "ANTI-FOSFAT CC 500 MG 100 TABLET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "11.33",
+      "id": "948"
+  },
+  {
+      "name": "ANTI-FOSFAT CC 500 MG 180 TABLET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "20.39",
+      "id": "949"
+  },
+  {
+      "name": "ANTIMAX 30 GR KREM",
+      "brand": "ORVA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.73",
+      "id": "950"
+  },
+  {
+      "name": "ANTI-NAUSEA 10 MG/2 ML IM/IV ENJ. COZ. ICEREN 5 AMPUL",
+      "brand": "ONFARMA İLAÇ SANAYİ LTD.ŞTİ.",
+      "price": "1.65",
+      "id": "951"
+  },
+  {
+      "name": "ANTIOXIDANT FORMULA 45 FILM TABLET",
+      "brand": "FERROSAN SAĞLIK ÜRÜN VE HİZMETLERİ A.Ş.",
+      "price": "3.28",
+      "id": "952"
+  },
+  {
+      "name": "ANTIPAR 100/25/200 MG 100 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "39.00",
+      "id": "953"
+  },
+  {
+      "name": "ANTIPAR 125/31,25/200 MG 100 FILM KAPLI TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "40.25",
+      "id": "954"
+  },
+  {
+      "name": "ANTIPAR 150/37,5/200 MG 100 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "41.00",
+      "id": "955"
+  },
+  {
+      "name": "ANTIPAR 200/50/200 MG 100 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "43.00",
+      "id": "956"
+  },
+  {
+      "name": "ANTIPAR 50/12,5/200 MG 100 FILM TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "37.50",
+      "id": "957"
+  },
+  {
+      "name": "ANTIPAR 75/18,75/200 MG 100 FILM KAPLI TABLET",
+      "brand": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "38.50",
+      "id": "958"
+  },
+  {
+      "name": "ANTI-POTASIUM 20 GRANUL POSET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "53.55",
+      "id": "959"
+  },
+  {
+      "name": "ANTI-POTASIUM 60 GRANUL POSET",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "160.65",
+      "id": "960"
+  },
+  {
+      "name": "ANTI-POTASIUM 880 MG/G GRANUL",
+      "brand": "ASSOS İLAÇ KİMYA GIDA ÜRÜNLERİ ÜRETİM VE TİC. A.Ş.",
+      "price": "53.55",
+      "id": "961"
+  },
+  {
+      "name": "ANTISTAX 180 MG 60 SERT JELATIN KAPSUL",
+      "brand": "BOEHRİNGER INGELHEİM İLAÇ TİCARET A.Ş.",
+      "price": "10.56",
+      "id": "962"
+  },
+  {
+      "name": "ANTOKSI-C 500 MG/5 ML I.V. ENJEKSIYON ICIN COZELTI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.31",
+      "id": "963"
+  },
+  {
+      "name": "ANTOKSI-C 500 MG/5 ML I.V. ENJEKSIYON ICIN COZELTI",
+      "brand": "POLİFARMA İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "2.31",
+      "id": "964"
+  },
+  {
+      "name": "ANZATAX 100 MG/16,7 ML INFUZYON ICIN KONSANTRE COZELTI ICEREN 1 FLAKON",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "76.46",
+      "id": "965"
+  },
+  {
+      "name": "ANZATAX 150MG/25ML ENJ. SOL. ICEREN 1 FLAKON",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "248.79",
+      "id": "966"
+  },
+  {
+      "name": "ANZATAX 30 MG/5 ML ENJ. SOL. ICEREN 1 FLAKON",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "49.76",
+      "id": "967"
+  },
+  {
+      "name": "ANZATAX 300 MG/50 ML IV ENJ. SOL. ICEREN 1 FLAKON",
+      "brand": "ORNA İLAÇ TEKSTİL KİMYEVİ MAD. SAN. VE DIŞ TİC. LTD. ŞTİ.",
+      "price": "457.48",
+      "id": "968"
+  },
+  {
+      "name": "ANZIBEL 5 MG / 4 MG / 3 MG EKINEZYALI 20 PASTIL",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.52",
+      "id": "969"
+  },
+  {
+      "name": "ANZIBEL 5 MG / 4 MG / 3 MG MEYANBALLI 20 PASTIL",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.52",
+      "id": "970"
+  },
+  {
+      "name": "ANZIBEL 5 MG / 4 MG / 3 MG ZENCEFILLI 20 PASTIL",
+      "brand": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "7.52",
+      "id": "971"
+  },
+  {
+      "name": "ANZYL 10 MG 28 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.80",
+      "id": "972"
+  },
+  {
+      "name": "ANZYL 10 MG 56 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "17.09",
+      "id": "973"
+  },
+  {
+      "name": "ANZYL 10 MG 84 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "25.63",
+      "id": "974"
+  },
+  {
+      "name": "ANZYL 15 MG 28 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "8.69",
+      "id": "975"
+  },
+  {
+      "name": "ANZYL 20 MG 28 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "5.80",
+      "id": "976"
+  },
+  {
+      "name": "ANZYL 20 MG 56 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "33.58",
+      "id": "977"
+  },
+  {
+      "name": "ANZYL 20 MG 84 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "50.37",
+      "id": "978"
+  },
+  {
+      "name": "ANZYL 5 MG 28 FILM TABLET",
+      "brand": "ANGELİNİ İLAÇ SANAYİ VE TİCARET A.Ş.",
+      "price": "2.89",
+      "id": "979"
+  },
+  {
+      "name": "A-PER 10 MG/ML I.V. INFUZYONLUK COZELTI (12 FLAKON)",
+      "brand": "AROMA İLAÇ SAN.LTD.ŞTİ.",
+      "price": "60.00",
+      "id": "980"
+  },
+  {
+      "name": "A-PER SURUP 120 MG 150 ML",
+      "brand": "AROMA İLAÇ SAN.LTD.ŞTİ.",
+      "price": "4.14",
+      "id": "981"
+  },
+  {
+      "name": "APFECTO % 0,3 GOZ DAMLASI, SUSPANSIYON (1,7 ML)",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.82",
+      "id": "982"
+  },
+  {
+      "name": "APFECTO %0,1 GOZ DAMLASI, SUSPANSIYON (5 ML)",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "8.82",
+      "id": "983"
+  },
+  {
+      "name": "APFECTO %0,3 GOZ DAMLASI, SUSPANSIYON (3 ML)",
+      "brand": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "15.87",
+      "id": "984"
+  },
+  {
+      "name": "APIDRA 100 U/ML SOLOSTAR ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR 5 KALEM",
+      "brand": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+      "price": "27.35",
+      "id": "985"
+  },
+  {
+      "name": "APIKOBAL 250 MG /250 MG /1 MG FILM KAPLI TABLET (30 FILM KAPLI TABLET)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "12.64",
+      "id": "986"
+  },
+  {
+      "name": "APIKOBAL 250 MG/250 MG/1 MG FILM KAPLI TABLET (50 FILM KAPLI TABLET)",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "21.06",
+      "id": "987"
+  },
+  {
+      "name": "APIKOBAL PLUS 250/250/1/300 MG 50 ENTERIK KAPLI TABLET",
+      "brand": "SANTA FARMA İLAÇ SAN. A.Ş.",
+      "price": "22.93",
+      "id": "988"
+  },
+  {
+      "name": "APILEP 150 MG 50 FILM TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.09",
+      "id": "989"
+  },
+  {
+      "name": "APILEP 300 MG 50 FILM TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "6.73",
+      "id": "990"
+  },
+  {
+      "name": "APILEP 600 MG 50 FILM TABLET",
+      "brand": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+      "price": "10.77",
+      "id": "991"
+  },
+  {
+      "name": "APIREKS 100 MG/5 ML 100 ML PEDIATRIK SUSPANSIYON",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "3.79",
+      "id": "992"
+  },
+  {
+      "name": "APIREKS COLD&FLU 200 MG/30 MG 24 FILM KAPLI TABLET",
+      "brand": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+      "price": "4.35",
+      "id": "993"
+  },
+  {
+      "name": "APLUSC 400 MG/240 MG 20 EFERVESAN TABLET",
+      "brand": "VİTALİS İLAÇ SAN. TİC. A.Ş.",
+      "price": "12.90",
+      "id": "994"
+  },
+  {
+      "name": "APLUSC 400 MG/240 MG 30 EFERVESAN TABLET",
+      "brand": "VİTALİS İLAÇ SAN. TİC. A.Ş.",
+      "price": "19.35",
+      "id": "995"
+  },
+  {
+      "name": "APLUSC 400 MG/240 MG EFERVESAN TABLET (10 TABLET)",
+      "brand": "VİTALİS İLAÇ SAN. TİC. A.Ş.",
+      "price": "6.45",
+      "id": "996"
+  },
+  {
+      "name": "APOFIN 20 MG/2 ML ENJ. VEYA INF. COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "PHARMET İLAÇ SANAYİ ANONİM ŞİRKETİ",
+      "price": "32.91",
+      "id": "997"
+  },
+  {
+      "name": "APOFIN 50MG/5 ML ENJ. VEYA INF. COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "PHARMET İLAÇ SANAYİ ANONİM ŞİRKETİ",
+      "price": "82.82",
+      "id": "998"
+  },
+  {
+      "name": "APO-GO 20MG/2 ML ENJEKSIYONLUK VEYA INFUZYONLUK COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "32.91",
+      "id": "999"
+  },
+  {
+      "name": "APO-GO 50MG/5 ML ENJEKSIYONLUK VEYA INFUZYONLUK COZELTI ICEREN AMPUL (5 AMPUL)",
+      "brand": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+      "price": "82.82",
+      "id": "1000"
+  }]

@@ -1,0 +1,84 @@
+/*Hamburger Menü*/
+.menu{
+    width: 2.5rem;
+    height: 2rem;
+    background: none;
+    border: none;
+    padding: 0;
+    border-radius: 0.5rem;
+    text-indent: 5rem;
+    overflow: hidden;
+    position: relative;
+    outline: none;
+  
+  }
+  .menu__inner,.menu__inner::before,.menu__inner::after{
+    position:absolute;
+    height: 0.25rem;
+    background-color: #233863;
+    border-radius: 0.25rem;
+    display: block;
+  }
+  .menu__inner{
+    width: 70%;
+    left: 15%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .menu__inner::before,.menu__inner::after{
+    content: "";
+    left: 0;
+    width: 100%;
+  }
+  .menu__inner::before{
+    top: -0.60rem;
+  }
+  .menu__inner::after{
+    top: 0.60rem;
+  }
+  
+  .menu--squeeze .menu__inner,
+  .menu--squeeze .menu__inner:before,
+  .menu--squeeze .menu__inner:after {
+    transition: top 0.2s 0.2s, transform 0.2s, background-color 0.4s 0.2s;
+  }
+  
+  .menu--squeeze.menu--active .menu__inner {
+    background-color: transparent;
+    transition: background-color 0.2s;
+  }
+  
+  .menu--squeeze.menu--active .menu__inner:before {
+    transform: rotate(-45deg);
+    top: 0;
+    transition: top 0.2s, transform 0.2s 0.14s;
+  }
+  
+  .menu--squeeze.menu--active .menu__inner:after {
+    transform: rotate(45deg);
+    top: 0;
+    transition: top 0.2s, transform 0.2s 0.14s;
+  }
+
+  /* Navbar */
+
+.navbar{
+  width: 100%;
+  height: calc(100vh - 75px);
+  position: fixed;
+  top: 75px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(240,240,240,1) 0%, rgba(151,191,122,1) 100%);
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  z-index: 99;
+  padding-top: 1rem;
+  gap: 2rem;
+}
+.navbarshow{
+  display: flex !important;
+}
+.navbarhide{
+  display: none !important;
+}
