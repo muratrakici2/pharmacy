@@ -13,8 +13,6 @@ const CreateUser = () => {
                 const user = firebase.auth().currentUser;
                 user.updateProfile({
                   displayName: userName,
-                  photoURL: "ndsfkjlfhdsafhlısgdgıjlsgşjsadgjş",
-                  phoneNumber: 123456789,
                 })
             })
             .then(() => {
