@@ -25,6 +25,7 @@ const Cart = () => {
             siparis: context.cart,
             date: new Date(),
             datetext:new Date().toLocaleString(),
+            read: false,
         }).then(() => {
             alert("Siparişiniz Alınmıştır.");
         }).then(() => {
