@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Entry from './Entry';
-import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
+import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
 import HomePage from './HomePage';
 import Login from './Login';
 import CreateUser from './CreateUser';
@@ -21,7 +21,7 @@ const Router = () => {
     setmain(true);
   });
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <Route path="/" exact>
           <Loading main={main} load={load}>
@@ -65,7 +65,7 @@ const Router = () => {
         </Route>
 
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
