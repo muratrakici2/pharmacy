@@ -1,10 +1,10 @@
 import React from 'react';
 import "../loading.css"
 
-const Loading = (props) => {
+const Loading = ({load,main,children}) => {
     return (
         <>
-            {props.load &&
+            {load &&
                 <div className="holder">
                     <div className="preloader">
                         <div></div>
@@ -20,7 +20,7 @@ const Loading = (props) => {
                     </div>
                 </div>
             }
-            {props.main && props.children}
+            {main && children}
         </>
     )
 }

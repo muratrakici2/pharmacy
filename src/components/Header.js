@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 import firebase from "../firebase";
-import { Link } from 'react-router-dom';
+import { Link, useRouteMatch } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSignOutAlt, faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import { MedicineContext } from './Context'
@@ -12,11 +12,12 @@ import HamburgerMenu from './HamburgerMenu';
 const Header = () => {
     const [state, setstate] = useState();
     const context = useContext(MedicineContext);
+    let { path } = useRouteMatch();
+    let result = path.match("admin");
 
     firebase.auth().onAuthStateChanged(function (user) {
         if (user) {
             setstate(user.displayName)
-            console.log(user)
         }
     });
 
@@ -34,10 +35,12 @@ const Header = () => {
                 <img src={elogo} alt="logo" height={65} />
                 <Link to="/" className="header-name">Eczacı</Link>
             </div>
-            <Link to="/sepet" className="header-link">
-                <FontAwesomeIcon icon={faShoppingCart} />
-                {context.cart.length === 0 ? " Sepet Boş" : ` Sepet'te ${context.cart.length} ürün var`}
-            </Link>
+            {result !== null ? null :
+                <Link to="/cart" className="header-link">
+                    <FontAwesomeIcon icon={faShoppingCart} />
+                    {context.cart.length === 0 ? " Sepet Boş" : ` Sepet'te ${context.cart.length} ürün var`}
+                </Link>
+            }
             <div className="header-user">
                 <p className="header-link">Hoşgeldin {state}</p>
                 <button className="header-button" onClick={userexit} type="button" >Exit <FontAwesomeIcon icon={faSignOutAlt} /></button>
@@ -51,7 +54,7 @@ const Header = () => {
                         </div>
                         <button className="hamburger-button" onClick={userexit} type="button" >Exit <FontAwesomeIcon icon={faSignOutAlt} /></button>
                     </div>
-                    <Link to="/sepet" className="hamburger-link">
+                    <Link to="/cart" className="hamburger-link">
                         <FontAwesomeIcon icon={faShoppingCart} />
                         {context.cart.length === 0 ? " Sepet Boş" : ` Sepet'te ${context.cart.length} ürün var`}
                     </Link>

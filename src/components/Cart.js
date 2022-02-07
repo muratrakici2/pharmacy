@@ -24,7 +24,7 @@ const Cart = () => {
             kisi: user,
             siparis: context.cart,
             date: new Date(),
-            datetext:new Date().toLocaleString(),
+            datetext: new Date().toLocaleString(),
             read: false,
         }).then(() => {
             alert("Siparişiniz Alınmıştır.");
@@ -72,7 +72,6 @@ const Cart = () => {
                                 </tr>
 
                             ))}
-
                             <tr>
                                 <td colSpan="5" style={{ textAlign: "end" }}>
                                     <button onClick={context.clearCart} className="cart-delete">Sepeti Boşalt</button>
@@ -93,22 +92,7 @@ const Cart = () => {
                         <button onClick={addFile}>Siparişi Ver</button>
                     </div>
                     <Link to="/" className="cart-link">Alışverişe Devam Et</Link>
-                </div>
-                // <div className="medicine-contanier">
-                //     {context.cart.map((i) => (
-                //         <div className="medicine" key={i.id}>
-                //             <img alt="medicine" src={i.image} width={200} />
-                //             <h4>{i.name} / {i.price}tl</h4>
-                //             <p>Kaç tane var {i.count}</p>
-                //             <button onClick={() => context.decrease(i.id)}>-</button>
-                //             <button onClick={() => context.increase(i.id)}>+</button>
-                //             <button onClick={() => context.delCart(i)}>Sepetten Çıkar</button>
-                //         </div>
-                //     ))}
-                //     <button onClick={addFile} disabled={context.cart.length === 0 ? true : false}>Siparişi Ver</button>
-                //     <button onClick={context.clearCart} disabled={context.cart.length === 0 ? true : false}>Sepeti Boşalt</button>
-                // </div> 
-                : <EmptyCart />}
+                </div> : <EmptyCart />}
         </div>
     )
 }

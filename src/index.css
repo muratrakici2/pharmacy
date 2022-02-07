@@ -166,11 +166,11 @@ font-size: 40px;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  position: fixed;
+  position: sticky;
   top: 0;
   background-color:#f0f0f0;
   border-bottom: 1px solid rgb(194, 194, 194);
-  z-index: 99;
+  z-index: 80;
 }
 .header-name{
   color: #233863;
@@ -237,7 +237,6 @@ font-size: 40px;
 .home-container{
   display: flex;
   flex-direction: column;
-  margin-top: 75px;
 }
 
 /* Medicines.js */
@@ -310,6 +309,16 @@ font-size: 40px;
   cursor: pointer;
   width: 100%;
   font-size: 14px;
+}
+.blok{
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  z-index: 100;
+  display: none;
 }
 @keyframes add {
   0%   {opacity: 0;transform: scale(0);}
@@ -516,7 +525,6 @@ th, td{
   width: 100%;
   min-height: calc(100vh - 75px);
   padding: 2rem;
-  margin-top: 75px;
 
 }
 
@@ -612,4 +620,36 @@ th, td{
   .emptycart-container img{
     width: 100%;
   }
+}
+/* Admin */
+.notification{
+  width: 300px;
+  height: 100px;
+  background-color: blueviolet;
+  border-radius: 20px;
+  display: none;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  position: fixed;
+  top: 50%;
+  left: calc(50% - 150px);
+  z-index: 99;
+}
+.admin-cart-container{
+  padding: 1rem;
+}
+.red{
+  background-color: red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  font-size: 50px;
+}
+.green{
+  background-color: green;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  font-size: 50px;
 }
