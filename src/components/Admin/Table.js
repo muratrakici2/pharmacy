@@ -6,7 +6,7 @@ const Table = ({data}) => {
     let history = useHistory();
     function detail(e) {
         const db = firebase.firestore();
-        var orderRef = db.collection("siparis").doc(e);
+        var orderRef = db.collection("orders").doc(e);
         return orderRef.update({
             read: true
         }).then(() => {
@@ -25,8 +25,8 @@ const Table = ({data}) => {
                     {data.map((i) => (
                         <tr key={i.id}>
                             <td><div className={i.read?"green":"red"}></div></td>
-                            <td>{i.kisi}</td>
-                            <td>{i.datetext}</td>
+                            <td>{i.firstName} {i.lastName}</td>
+                            <td>{i.time.toDate().toLocaleString()}</td>
                             <td ><button onClick={() => detail(i.id)}>Detay</button></td>
                         </tr>
                     ))}

@@ -14,17 +14,33 @@ const Cart = () => {
     const [user, setuser] = useState();
     const [total, setTotal] = useState("");
     var db = firebase.firestore();
-    firebase.auth().onAuthStateChanged(function (user) {
-        if (user) {
-            setuser(user.email)
-        }
-    });
+    useEffect(() => {
+        firebase.auth().onAuthStateChanged(function (user) {
+            if (user) {
+                var db = firebase.firestore();
+                var docRef = db.collection("users").doc(user.uid);
+                docRef.get().then((doc) => {
+                    if (doc.exists) {
+                        setuser(doc.data());
+                    } else {
+                        console.log("No such document!");
+                    }
+                }).catch((error) => {
+                    console.log("Error getting document:", error);
+                });
+            }
+        });
+    }, []);
+
     const addFile = () => {
-        db.collection("siparis").add({
-            kisi: user,
-            siparis: context.cart,
-            date: new Date(),
-            datetext: new Date().toLocaleString(),
+        db.collection("orders").add({
+            firstName: user.firstName,
+            lastName: user.lastName,
+            email: user.email,
+            address: user.address,
+            order: context.cart,
+            time: firebase.firestore.Timestamp.fromDate(new Date()),
+            total,
             read: false,
         }).then(() => {
             alert("Siparişiniz Alınmıştır.");

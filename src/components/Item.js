@@ -6,14 +6,14 @@ import { MedicineContext } from './Context'
 const Item = ({ item }) => {
     const context = useContext(MedicineContext);
 
-    function add(e) {
+    const add = (e) =>{
         context.addCart(e);
         document.getElementById(e.id).classList.add("addAnimasyon");
         document.querySelector(".blok").style.display = "block";
         setTimeout(() => {
             document.getElementById(e.id).classList.remove("addAnimasyon")
             document.querySelector(".blok").style.display = "none";
-        }, 1500);
+        }, 1300);
     }
 
 

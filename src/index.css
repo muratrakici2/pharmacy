@@ -119,7 +119,6 @@ font-size: 40px;
 .login-form{
   background-color: #97BF7A;
   width: 400px;
-  height: 500px;
   padding: 2rem;
   border: none;
   border-radius: 20px;
@@ -128,13 +127,18 @@ font-size: 40px;
   justify-content: center;
   flex-direction: column;
 }
+.form-link{
+  text-decoration: none;
+  color: #233863;
+  margin-top: 10px;
+}
 .form-input{
   width: 100%;
   padding: .5rem;
-  font-size: 1rem;
+  font-size: 11pt;
   border: none;
   border-radius: 10px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .form-button{
   width: 50%;
@@ -145,12 +149,24 @@ font-size: 40px;
   margin-top: 20px;
   cursor: pointer;
   background-color: rgb(226, 226, 226);
-}
-.form-link{
-  text-decoration: none;
+  display: block;
   color: #233863;
-  margin-top: 10px;
+
 }
+input:-webkit-autofill,
+  input:-webkit-autofill:focus {
+    transition: background-color 600000s 0s, color 600000s 0s;
+  }
+.form-error{
+  font-size: 14px;
+  margin: 5px;
+  color: #aa0000;
+}
+.address{
+  resize: none;
+  min-height: 80px;
+}
+
 @media only screen and (max-width: 950px) {
   .login-container{
     padding: 2rem;
@@ -312,7 +328,7 @@ font-size: 40px;
 }
 .blok{
   width: 100%;
-  height: 100px;
+  height: 100vh;
   position: fixed;
   top: 0;
   left: 0;
@@ -343,7 +359,7 @@ font-size: 40px;
  font-size: 20px;
 }
 .addAnimasyon{
-  animation: add 1.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+  animation: add 1.2s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 @media only screen and (max-width: 950px) {
   .medicines-main{
@@ -558,6 +574,7 @@ th, td{
   border: none;
   font-size: 16px;
   padding: .5rem 1rem;
+  cursor: pointer;
 }
 .cart-total{
   width: 400px;
@@ -569,6 +586,7 @@ th, td{
   font-size: 16px;
   padding: .5rem 1rem;
   margin-top: 10px;
+  cursor: pointer;
 }
 .cart-total h2{
   margin-bottom: 5px;

@@ -15,8 +15,8 @@ const AdminCart = () => {
     useEffect(() => {
         //ANLIK
         const db = firebase.firestore();
-        db.collection("siparis")
-            .orderBy("date", "desc")
+        db.collection("orders")
+            .orderBy("time", "desc")
             .onSnapshot((querySnapshot) => {
                 setData([])
                 querySnapshot.forEach((doc) => {
