@@ -20,12 +20,12 @@ const CreateUser = () => {
                     const user = firebase.auth().currentUser;
                     user.updateProfile({
                         displayName: `${firstName} ${lastName}`,
-                    })
-                }).then(() => {
-                    window.location = '/';
-                }).catch((error) => {
-                    console.error("Error writing document: ", error);
-                });
+                    }).then(() => {
+                        window.location = '/';
+                    }).catch((error) => {
+                        console.error("Error writing document: ", error);
+                    });
+                })
             }).catch((error) => {
                 var errorMessage = error.message;
                 alert(errorMessage)
@@ -92,7 +92,7 @@ const CreateUser = () => {
                         <Field as="textarea" name="address" placeholder="Adres" className="form-input address" />
                         <ErrorMessage name="address" component="span" className='form-error' />
 
-                        <button type="submit" className='form-button'>Submit</button>
+                        <button type="submit" className='form-button'>Kayıt</button>
                     </Form>
                 </Formik>
 
