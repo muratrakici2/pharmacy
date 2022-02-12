@@ -1,12 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import firebase from "../firebase";
 import list from "../images/list.png"
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
+import CreateUserLoading from './CreateUserLoading';
 
 const CreateUser = () => {
+    const [creating, setcreating] = useState(false)
 
-    function adduser({ firstName, lastName, email, password, address }) {
+    const adduser = ({ firstName, lastName, email, password, address }) => {
+        setcreating(true)
         firebase.auth().createUserWithEmailAndPassword(email, password)
             .then((res) => {
                 const db = firebase.firestore();
@@ -22,9 +25,7 @@ const CreateUser = () => {
                         displayName: `${firstName} ${lastName}`,
                     }).then(() => {
                         window.location = '/';
-                    }).catch((error) => {
-                        console.error("Error writing document: ", error);
-                    });
+                    })
                 })
             }).catch((error) => {
                 var errorMessage = error.message;
@@ -57,6 +58,7 @@ const CreateUser = () => {
 
     return (
         <div className="login-container">
+            {creating&&<CreateUserLoading/>}
             <img src={list} alt="list" />
             <div className="login-form">
                 <h2>Kayıt Ol</h2>

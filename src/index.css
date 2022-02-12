@@ -639,6 +639,37 @@ th, td{
     width: 100%;
   }
 }
+
+/* CreateUserLoading.js */
+.create-user-load{
+width: 100%;
+height: 100vh;
+position: fixed;
+top: 0;
+right: 0;
+background-color: #233863;
+z-index: 7;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.user-loading-icon{
+  font-size: 170px;
+  color: #aa0000;
+  margin-bottom: 1rem;
+}
+.user-loading-text{
+  font-size: 5vw;
+  color: #eee;
+  text-align: center;
+  margin-top: 1rem;
+}
+@media only screen and (max-width: 700px) {
+  .user-loading-text{
+    font-size: 10vw;
+  }
+}
 /* Admin */
 .notification{
   width: 300px;
