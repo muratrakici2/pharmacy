@@ -359,7 +359,7 @@ input:-webkit-autofill,
  font-size: 20px;
 }
 .addAnimasyon{
-  animation: add 1.2s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+  animation: add 1.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 @media only screen and (max-width: 950px) {
   .medicines-main{
@@ -525,6 +525,9 @@ input:-webkit-autofill,
 }
 
 /* Cart.js */
+.table-container{
+  padding: 1rem;
+}
 table{
   width: 100%;
   border:1px solid rgb(199, 199, 199);
@@ -672,22 +675,22 @@ flex-direction: column;
 }
 /* Admin */
 .notification{
-  width: 300px;
-  height: 100px;
+  width: 100%;
   background-color: blueviolet;
-  border-radius: 20px;
-  display: none;
+  display: flex;
   align-items: center;
   justify-content: space-around;
-  flex-direction: column;
-  position: fixed;
-  top: 50%;
-  left: calc(50% - 150px);
   z-index: 99;
+  overflow: hidden;
+  cursor: pointer;
+  animation: notification 1s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+
 }
-.admin-cart-container{
-  padding: 1rem;
+@keyframes notification {
+  from {height: 0;}
+  to {height: 30px;}
 }
+
 .red{
   background-color: red;
   border-radius: 50%;

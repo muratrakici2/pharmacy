@@ -2,7 +2,7 @@ import React from 'react'
 import firebase from "../../firebase";
 import { useHistory } from "react-router-dom";
 
-const Table = ({data}) => {
+const Table = ({ data }) => {
     let history = useHistory();
     function detail(e) {
         const db = firebase.firestore();
@@ -10,11 +10,12 @@ const Table = ({data}) => {
         return orderRef.update({
             read: true
         }).then(() => {
-            history.push("/order-details/"+e);
+            history.push("/order-details/" + e);
         })
     }
     return (
-        <table>
+        <div className='table-container'>
+            <table>
                 <tbody>
                     <tr>
                         <th>Okundu</th>
@@ -24,7 +25,7 @@ const Table = ({data}) => {
                     </tr>
                     {data.map((i) => (
                         <tr key={i.id}>
-                            <td><div className={i.read?"green":"red"}></div></td>
+                            <td><div className={i.read ? "green" : "red"}></div></td>
                             <td>{i.firstName} {i.lastName}</td>
                             <td>{i.time.toDate().toLocaleString()}</td>
                             <td ><button onClick={() => detail(i.id)}>Detay</button></td>
@@ -32,6 +33,7 @@ const Table = ({data}) => {
                     ))}
                 </tbody>
             </table>
+        </div>
     )
 }
 

@@ -1,21 +1,25 @@
-import React, { useEffect ,useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
-const Notification = ({data}) => {
+const Notification = ({ data }) => {
     const [notification, setnotification] = useState("");
-    const [show, setshow] = useState("none");
+    const [show, setshow] = useState(false);
 
     useEffect(() => {
         const alarm = data.filter((i) => i.read === false)
         if (alarm.length > 0) {
             setnotification(alarm.length);
-            setshow("flex")
+            setTimeout(() => {
+                setshow(true)
+            }, 1000);
         }
     }, [data])
-    return(
-    <div className="notification" style={{display:`${show}`}}>
-        <p>{notification} Okunmamış Siparişiniz Var</p>
-        <button onClick={() => setshow("none")}>kapat</button>
-    </div>
-    )};
+    return (
+        <>
+            {show && <div className="notification" onClick={()=>setshow(false)}>
+                <p>{notification} Okunmamış Siparişiniz Var</p>
+            </div>}
+        </>
+    )
+};
 
 export default Notification;

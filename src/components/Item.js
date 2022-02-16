@@ -13,7 +13,7 @@ const Item = ({ item }) => {
         setTimeout(() => {
             document.getElementById(e.id).classList.remove("addAnimasyon")
             document.querySelector(".blok").style.display = "none";
-        }, 1300);
+        }, 1500);
     }
 
 

@@ -40,10 +40,10 @@ const AdminCart = () => {
             <Loading main={checkMain} load={checkLoad}>
                 <Header />
                 {checkAdmin ?
-                    <div className="admin-cart-container">
+                    <>
                         <Notification data={data} />
                         <Table data={data} />
-                    </div> : <Redirect to="/" />}
+                    </> : <Redirect to="/" />}
             </Loading>
         </>
     )
