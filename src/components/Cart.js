@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react'
+import React, { useContext, useEffect, useState, useRef } from 'react'
 import { MedicineContext } from './Context'
 import { Link, useHistory } from 'react-router-dom';
 import firebase from "../firebase";
@@ -13,6 +13,7 @@ const Cart = () => {
     let history = useHistory();
     const [user, setuser] = useState();
     const [total, setTotal] = useState("");
+    const buttonRef = useRef(null);
     var db = firebase.firestore();
     useEffect(() => {
         firebase.auth().onAuthStateChanged(function (user) {
@@ -33,6 +34,7 @@ const Cart = () => {
     }, []);
 
     const addFile = () => {
+        buttonRef.current.disabled = "disabled";
         db.collection("orders").add({
             firstName: user.firstName,
             lastName: user.lastName,
@@ -58,57 +60,59 @@ const Cart = () => {
 
     return (
         <div>
-            {context.cart.length !== 0 ? <Header /> : null}
             {context.cart.length !== 0 ?
-                <div className="cart-container">
-                    <table>
-                        <tbody>
-                            <tr>
-                                <th></th>
-                                <th>Ürün</th>
-                                <th>Fiyat</th>
-                                <th>Adet</th>
-                                <th>Toplam</th>
-                            </tr>
-                            {context.cart.map((i) => (
-                                <tr key={i.id}>
-                                    <td><FontAwesomeIcon icon={faTrash} onClick={() => context.delCart(i)} /></td>
-                                    <td>{i.name}</td>
-                                    <td>{i.price} ₺</td>
-                                    <td>
-                                        <div className="cart-quantity">
-                                            <p>{i.count}</p>
-                                            <div className="cart-quantity-button">
-                                                <button onClick={() => context.increase(i.id)}><FontAwesomeIcon icon={faChevronUp} /></button>
-                                                <button onClick={() => context.decrease(i.id)}><FontAwesomeIcon icon={faChevronDown} /></button>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td>{(i.price * i.count).toFixed(2)} ₺</td>
-                                </tr>
-
-                            ))}
-                            <tr>
-                                <td colSpan="5" style={{ textAlign: "end" }}>
-                                    <button onClick={context.clearCart} className="cart-delete">Sepeti Boşalt</button>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <div className="cart-total">
-                        <h2>Sepet Toplamı</h2>
+                <>
+                    <Header />
+                    <div className="cart-container">
                         <table>
                             <tbody>
                                 <tr>
+                                    <th></th>
+                                    <th>Ürün</th>
+                                    <th>Fiyat</th>
+                                    <th>Adet</th>
                                     <th>Toplam</th>
-                                    <td>{total} ₺</td>
+                                </tr>
+                                {context.cart.map((i) => (
+                                    <tr key={i.id}>
+                                        <td><FontAwesomeIcon style={{ color: "gray",cursor:"pointer" }} icon={faTrash} onClick={() => context.delCart(i)} /></td>
+                                        <td>{i.name}</td>
+                                        <td>{i.price} ₺</td>
+                                        <td>
+                                            <div className="cart-quantity">
+                                                <p>{i.count}</p>
+                                                <div className="cart-quantity-button">
+                                                    <button onClick={() => context.increase(i.id)}><FontAwesomeIcon icon={faChevronUp} /></button>
+                                                    <button onClick={() => context.decrease(i.id)}><FontAwesomeIcon icon={faChevronDown} /></button>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>{(i.price * i.count).toFixed(2)} ₺</td>
+                                    </tr>
+
+                                ))}
+                                <tr>
+                                    <td colSpan="5" style={{ textAlign: "end" }}>
+                                        <button onClick={context.clearCart} className="cart-delete">Sepeti Boşalt</button>
+                                    </td>
                                 </tr>
                             </tbody>
                         </table>
-                        <button onClick={addFile}>Siparişi Ver</button>
+                        <div className="cart-total">
+                            <h2>Sepet Toplamı</h2>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th>Toplam</th>
+                                        <td>{total} ₺</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <button className='cart-button' onClick={addFile} ref={buttonRef}>Siparişi Ver</button>
+                        </div>
+                        <Link to="/" className="cart-link">Alışverişe Devam Et</Link>
                     </div>
-                    <Link to="/" className="cart-link">Alışverişe Devam Et</Link>
-                </div> : <EmptyCart />}
+                </> : <EmptyCart />}
         </div>
     )
 }

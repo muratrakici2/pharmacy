@@ -5,7 +5,7 @@ import { MedicineContext } from './Context'
 
 const Item = ({ item }) => {
     const context = useContext(MedicineContext);
-
+console.log("çalıştı")
     const add = (e) =>{
         context.addCart(e);
         document.getElementById(e.id).classList.add("addAnimasyon");
@@ -13,7 +13,7 @@ const Item = ({ item }) => {
         setTimeout(() => {
             document.getElementById(e.id).classList.remove("addAnimasyon")
             document.querySelector(".blok").style.display = "none";
-        }, 1500);
+        }, 1800);
     }
 
 
